@@ -1,1002 +1,1006 @@
 [
     {
-        "question": "What is the maximum reported success rate for endourological management of UPJO according to the article?",
-        "answer": "80%"
+        "question": "What is the success rate for endourological management of UPJO?",
+        "answer": "The success rate does not exceed 80%."
     },
     {
         "question": "When was laparoscopic pyeloplasty first introduced?",
-        "answer": "1993"
+        "answer": "Laparoscopic pyeloplasty was first introduced in 1993."
     },
     {
-        "question": "What criteria were used to define radiologic success after laparoscopic pyeloplasty?",
-        "answer": "Imaging of a patent UPJ on IVP and resolution of obstruction on a MAG-3 renal scan."
+        "question": "What was the long-term follow-up period for the study of laparoscopic pyeloplasty presented in the article?",
+        "answer": "The long-term follow-up period was 36.5 months."
     },
     {
-        "question": "What was the overall success rate of laparoscopic pyeloplasty according to the findings presented in the article?",
-        "answer": "87.7%"
+        "question": "How was radiologic success defined in the study of laparoscopic pyeloplasty?",
+        "answer": "Radiologic success was defined as imaging of a patent UPJ on IVP and resolution of obstruction on a MAG-3 renal scan."
     },
     {
-        "question": "What was identified as the only risk factor related to the overall failure of laparoscopic pyeloplasty?",
-        "answer": "Drained amount"
+        "question": "What was the overall success rate of laparoscopic pyeloplasty found in the study?",
+        "answer": "The overall success rate was 87.7%."
     },
     {
-        "question": "What is the capsaicin 8% patch used to treat?",
-        "answer": "The capsaicin 8% patch is used to treat peripheral neuropathic pain in nondiabetic adults."
+        "question": "What is the primary component of the capsaicin 8% patch?",
+        "answer": "Capsaicin is the primary component of the capsaicin 8% patch."
     },
     {
         "question": "How does capsaicin in the patch provide pain relief?",
-        "answer": "Capsaicin provides pain relief by reversible defunctionalization of nociceptive nerve fibers, resulting in reduced spontaneous nerve activity and loss of responsiveness to sensory stimuli."
+        "answer": "Capsaicin provides pain relief by producing reversible defunctionalization of nociceptive nerve fibers, leading to reduced spontaneous nerve activity and loss of responsiveness to many sensory stimuli."
     },
     {
-        "question": "What are the common adverse effects associated with the capsaicin 8% patch?",
-        "answer": "The common adverse effects include transient localized reactions such as application-site burning, pain, erythema, and pruritus."
+        "question": "For how long does a single application of the capsaicin 8% patch deliver pain relief?",
+        "answer": "A single application of the capsaicin 8% patch delivers prolonged pain relief for up to 12 weeks."
     },
     {
-        "question": "How often can treatments with the capsaicin 8% patch be repeated?",
-        "answer": "Treatments with the capsaicin 8% patch may be repeated every 90 days if necessary."
+        "question": "What are some of the precautions that should be taken when using the capsaicin 8% patches?",
+        "answer": "Precautions include wearing nitrile gloves while handling the patch, avoiding placement near eyes or mucus membranes, and preventing direct contact with used patches or cleansing materials."
     },
     {
-        "question": "Why do the authors believe that physician supervision for administering the capsaicin 8% patch is unnecessary?",
-        "answer": "The authors believe physician supervision is unnecessary because the application procedure is clearly defined, straightforward, well tolerated, and has been successfully carried out by nurses without physician presence, demonstrating that trained healthcare professionals can administer the patch safely."
+        "question": "According to the article, is supervision by a physician necessary for the administration of the capsaicin 8% patch?",
+        "answer": "The authors of the article believe that supervision by a physician is not necessary for the administration of the capsaicin 8% patch in most circumstances."
     },
     {
-        "question": "What organism is considered the third-most frequent nosocomial pathogen among non-fermentative bacteria?",
-        "answer": "Stenotrophomonas maltophilia"
+        "question": "What type of bacteria is Stenotrophomonas maltophilia?",
+        "answer": "Stenotrophomonas maltophilia is an aerobic non-fermenting gram-negative bacillus."
     },
     {
-        "question": "What commonality is shared between patients with Stenotrophomonas maltophilia bacteremia (SMB) in both the previously reported cases and in the findings from the Japanese hospitals?",
-        "answer": "A high ICU admission rate, longer hospital stay before SMB onset, and a high comorbidity of malignancy."
+        "question": "Among non-fermentative bacteria, where does S. maltophilia rank in terms of frequency for nosocomial pathogens?",
+        "answer": "S. maltophilia is considered the third-most frequent nosocomial pathogen among non-fermentative bacteria."
     },
     {
-        "question": "What were the primary sites of infection for SMB in the Japanese study?",
-        "answer": "Central line-associated bloodstream infections were the most common, followed by respiratory and abdominal infections."
+        "question": "What is the range of the 30-day mortality rates for S. maltophilia bacteremia according to the article?",
+        "answer": "The 30-day mortality rates for S. maltophilia bacteremia range between 11% and 51%."
     },
     {
-        "question": "What was the relationship between the prognosis of patients with SMB and the administered antimicrobials in the Japanese study?",
-        "answer": "The prognosis of the patients was associated with the underlying diseases and clinical severity but not with the administered antimicrobials."
+        "question": "What previous antibiotic use is associated with S. maltophilia infection as a risk factor?",
+        "answer": "Prior use of carbapenem is associated with S. maltophilia infection as a risk factor."
     },
     {
-        "question": "What percentage of the patients in the Japanese study were administered carbapenem upon their diagnosis with SMB?",
-        "answer": "More than one-third of the patients."
+        "question": "What was the primary method used to compare clinical characteristics between survivors and non-survivors in the study?",
+        "answer": "The primary method used was statistical analysis, including the chi-squared test for categorical variables, the Mann-Whitney test for continuous variables, and multivariate analysis to identify factors associated with prognosis."
     },
     {
-        "question": "What are some of the advantages of glass ionomer cement (GIC)?",
-        "answer": "The advantages of glass ionomer cement include physical/chemical bonding to tooth structure, anticariogenic property due to fluoride release, esthetics, and low coefficient of thermal expansion."
+        "question": "What are the advantages of using glass ionomer as a filling material?",
+        "answer": "Advantages of glass ionomer include physical/chemical bonding to tooth structure, anticariogenic properties due to fluoride release, esthetics, and low coefficient of thermal expansion."
     },
     {
-        "question": "Why is GIC typically used only in low stress-bearing areas?",
-        "answer": "GIC is typically used only in low stress-bearing areas because of its poor mechanical properties, such as low fracture strength, toughness, and wear resistance."
+        "question": "Why is the use of glass ionomer as a filling material limited to certain areas?",
+        "answer": "Its use is limited to low stress-bearing areas because of poor mechanical properties like low fracture strength, toughness, and wear resistance."
     },
     {
-        "question": "What is the purpose of conditioning a cavity before GIC restoration?",
-        "answer": "Conditioning a cavity before GIC restoration removes the smear layer, partially demineralizes and penetrates the superficial dentin surface to enhance the bonding of the GIC to the tooth."
+        "question": "What is the purpose of conditioning a cavity before applying glass ionomer cement (GIC)?",
+        "answer": "Conditioning a cavity before applying GIC removes the smear layer and partially demineralizes the dentin surface, which enhances the bonding of the cement to the tooth."
     },
     {
-        "question": "How are voids in GIC restorations evaluated in the study?",
-        "answer": "Voids in GIC restorations are evaluated using a stereomicroscope after sectioning the samples, and the number of distinct, round voids within the cement are counted."
+        "question": "How do the mechanical properties of encapsulated glass ionomer cement compare to hand-mixed materials according to some studies?",
+        "answer": "Some studies reported that mechanical properties of encapsulated materials were equivalent or inferior to those of the hand-mixed materials."
     },
     {
-        "question": "According to the study, how does the mechanical mixing of encapsulated GIC compare to hand-mixed GIC in terms of voids?",
-        "answer": "The study found that encapsulated GIC had more voids within the cement compared to hand-mixed GIC."
+        "question": "What was the aim of the study mentioned in the article?",
+        "answer": "The aim of the study was to compare the presence of voids in conventional and capsulated glass ionomer cement using two different conditioners."
     },
     {
-        "question": "What was the age and sex of the cat that underwent a glenoidectomy?",
-        "answer": "A 15-year-old neutered female cat."
+        "question": "What was the primary injury that the 15-year-old neutered female cat suffered?",
+        "answer": "A comminuted fracture of the right glenoid and scapular neck secondary to a gunshot injury."
     },
     {
-        "question": "What type of injury did the cat sustain that led to the glenoidectomy procedure?",
-        "answer": "The cat had a comminuted fracture of the right glenoid and scapular neck secondary to a gunshot injury."
+        "question": "Which surgical procedure was performed on the cat to treat the fracture?",
+        "answer": "Glenoidectomy."
     },
     {
-        "question": "What is glenoidectomy presented as an alternative to in this case report?",
-        "answer": "Glenoidectomy is presented as an alternative to amputation in cats with normal neurovascular supply to the affected limb."
+        "question": "What were the expected postoperative conditions after the cat's surgery?",
+        "answer": "Persistent functional, pain-free lameness, muscle hypertrophy, and changes in shoulder range of motion."
     },
     {
-        "question": "What were the indications for the use of complete or partial excision of the scapula as mentioned in the article?",
-        "answer": "The reported indications for complete or partial excision of the scapula are fracture of the glenoid, chronic medial glenohumeral luxation, or more frequently, scapular neoplasia."
+        "question": "How did the cat's lameness score change from preoperative to 6 months postoperatively?",
+        "answer": "The cat's lameness score was 3/5 preoperatively, 4/5 24 hours postoperatively, and 1/5 6 months postoperatively."
     },
     {
-        "question": "What were the clinical outcomes for the cat post-glenoidectomy?",
-        "answer": "The cat experienced persistent functional, pain-free lameness, muscle hypertrophy and changes in shoulder range of motion."
+        "question": "Why was amputation of the limb considered but ultimately not performed?",
+        "answer": "Amputation was considered an extreme option given that the neurological function of the limb was normal and the humeral head and the scapula proximal to the neck were intact."
     },
     {
-        "question": "What are tonsilloliths and how do they form?",
-        "answer": "Tonsilloliths are white or yellowish calcified structures of bacteria and organic debris that commonly develop in enlarged tonsillar crypts. They form when bacteria colonize an epithelial or mucosal surface within a biofilm and eventually calcify, progressing from a soft gel to hard concretions."
+        "question": "What are tonsilloliths composed of?",
+        "answer": "Tonsilloliths are composed of calcium hydroxyapatite and calcium carbonate with other minerals including phosphorus, ammonia, and magnesium."
     },
     {
-        "question": "What are the main components of tonsilloliths?",
-        "answer": "Tonsilloliths are composed of calcium hydroxyapatite and calcium carbonate, along with other minerals including phosphorus, ammonia and magnesium."
+        "question": "What symptoms did the 17-year-old female patient present with in the case study?",
+        "answer": "The patient presented with a two-year history of recurrent tonsillitis, persistent left sided oral cavity swelling, dysphagia, foreign body sensation, and 'hot potato' speech."
     },
     {
-        "question": "What symptoms did the 17-year-old female patient present with?",
-        "answer": "The 17-year-old female patient presented with a two-year history of recurrent tonsillitis, persistent left-sided oral cavity swelling, dysphagia, foreign body sensation, 'hot potato' speech, and progressively worsening dysphagia."
+        "question": "How are bacteria within tonsilloliths difficult to treat with antibiotics?",
+        "answer": "Bacteria within tonsilloliths are enveloped by an extracellular matrix, forming a biofilm that is localised and acts as a nidus for acute infection, which makes them difficult to treat with antibiotic chemotherapy."
     },
     {
-        "question": "How are bacteria in biofilms and their relation to tonsilloliths significant?",
-        "answer": "Bacteria in biofilms are difficult to treat with antibiotics because they are localised and can act as a nidus for acute infection, which leads to a high recurrence rate and chronicity of otorhinolaryngology infections. Similarly, tonsilloliths are a localized concentration of bacteria that can cause recurrent inflammation such as tonsillitis."
+        "question": "What imaging modality was used to assess the patient's left tonsillar mass in the case study?",
+        "answer": "A computer tomography (CT) scan of the neck was used to assess the patient's left tonsillar mass."
     },
     {
-        "question": "What are the possible presentations of large tonsilloliths and the general approach for their management?",
-        "answer": "Large tonsilloliths can present symptomatically with dysphagia, recurrent sore throat, foreign body sensation, or referred otalgia, and halitosis. They may require surgical excision and tonsillectomy if associated with recurrent tonsillitis or if there is a suspicion of malignancy."
+        "question": "What are some of the differential diagnoses for radiopaque masses that need to be distinguished from tonsilloliths?",
+        "answer": "Some differential diagnoses include a prominent pterygoid hamulus, large maxillary tuberosity, displaced third molar tooth, elongated styloid process, vasculature calcifications, lymph node calcification, calcified peritonsillar abscess, salivary gland sialolith, or an intraosseous abnormality within the mandibular ramus."
     },
     {
-        "question": "What were the reported prevalence rates of polycystic ovarian syndrome among women of fertility age in Isfahan, Iran, according to Ghanbari's 2010 study?",
+        "question": "What were the reported prevalence rates of polycystic ovarian syndrome in Isfahan, Iran according to the study?",
         "answer": "7% based on NIH scale, 15.2% based on Rotterdam scale, and 7.92% based on AES."
     },
     {
-        "question": "What are the common signs of polycystic ovarian syndrome?",
-        "answer": "Polycystic ovaries on sonography, disorders in ovulation, irregular menstruation cycles, clinical hyperandrogenism, hirsutism, adulthood acne or acute acne in adolescence, and alopecia with a male pattern."
+        "question": "What alternative treatments to medication does the article suggest for polycystic ovarian syndrome?",
+        "answer": "Complementary therapies like reflexology, acupressure, and acupuncture, specifically auriculotherapy."
     },
     {
-        "question": "What types of treatments were compared in the study regarding their effects on menstrual irregularities for women with polycystic ovarian syndrome?",
-        "answer": "Auriculotherapy and medication."
+        "question": "How did the study administer auriculotherapy to the subjects?",
+        "answer": "The subjects received auriculotherapy every other day from the end of their period for 10 days in each cycle and for two straight cycles (20 auriculotherapy sessions)."
     },
     {
-        "question": "What was the conclusion of the study regarding the long-term efficacy of auriculotherapy compared to medication?",
-        "answer": "Auriculotherapy has a more long-term efficacy compared to medication, as its effects can be seen even up to 3 months after termination of the treatment."
+        "question": "What significant difference was found between the auriculotherapy and medication groups after the intervention?",
+        "answer": "A greater decrease in menstrual irregularities was found in the auriculotherapy group compared to the medication group."
     },
     {
-        "question": "What is auriculotherapy and how does it differ from acupuncture?",
-        "answer": "Auriculotherapy is the stimulation of auricles (external ears) to diagnose and treat diseases and preserve health, using methods like electric and seed stimulation instead of needles, and it is a branch of acupuncture."
+        "question": "What is auriculotherapy and how is it different from traditional acupuncture?",
+        "answer": "Auriculotherapy refers to the stimulation of auricles (external ears) to diagnose and treat diseases. It can use electric and seed method to stimulate points instead of needles, and it does not require exposing the body."
     },
     {
-        "question": "What was the main objective of the seroprevalence study conducted in the Mbeya region of southwestern Tanzania?",
-        "answer": "The main objective was to estimate TGR seroprevalence rates and to assess associated sociodemographic and environmental risk factors."
+        "question": "What was the main purpose of the seroprevalence study conducted in the Mbeya region of southwestern Tanzania?",
+        "answer": "The main purpose was to estimate TGR seroprevalence rates and assess associated sociodemographic and environmental risk factors."
     },
     {
         "question": "How were the serum specimens for the substudy selected?",
-        "answer": "The serum specimens were selected by stratified disproportionate random sampling from stored samples of participants in the second EMINI survey in 2007."
+        "answer": "Serum specimens were selected by stratified disproportionate random sampling of stored samples from persons who participated in the second EMINI survey in 2007."
     },
     {
-        "question": "On what basis were the serum samples tested for IgG against R. typhi considered positive?",
-        "answer": "Serum samples with an IgG titer of 64 or higher were regarded as positive."
+        "question": "What method was used to test the serum samples for IgG against R. typhi?",
+        "answer": "Indirect immunofluorescence assay (IIFA) was used to test the serum samples for IgG against R. typhi."
     },
     {
-        "question": "What were the significant predictors of TGR IgG included in the final multivariable model?",
+        "question": "What were the findings regarding the seropositivity rates for TGR in different age groups?",
+        "answer": "The highest seropositivity rate was found in the age quintile from 42.1 to 55.2 years, with a decline thereafter."
+    },
+    {
+        "question": "Which factors were included in the final multivariable model as significant predictors of TGR IgG?",
         "answer": "The final multivariable model included age, vegetation density, and distance to the nearest highway as significant predictors of TGR IgG."
     },
     {
-        "question": "What did the study hypothesize about using remote sensing data in relation to R. typhi infection?",
-        "answer": "The study hypothesized that remote sensing data could be used to design a model for prediction of R. typhi infection, which could be used to direct public health interventions in the future."
-    },
-    {
-        "question": "What are the four principles of research ethics outlined in the article?",
+        "question": "What are the four universally recognized principles of research ethics in the health field?",
         "answer": "Do no harm/non-maleficence, do good/beneficence, justice, and respect for autonomy."
     },
     {
-        "question": "Why might public health researchers fail to apply for research ethics approval in low-income countries according to the article?",
-        "answer": "The explanations include thinking that research ethics approval is not needed for researchers from high-income countries, not knowing the country has an ethics committee, applying to the wrong authority, worries about resource constraints, and assuming that there are exemptions for non-clinical public health research."
+        "question": "What body oversees research ethics in Nepal, according to the article?",
+        "answer": "The Nepal Health Research Council (NHRC)."
     },
     {
-        "question": "What are the two overarching themes that most explanations for the omission of seeking ethical approval fit into?",
+        "question": "Why do some researchers fail to apply for research ethics approval in low-income countries?",
+        "answer": "Possible reasons include thinking that it's not needed for researchers from high-income countries, not knowing about local ethics committees, applying to the wrong authority, worries about resource constraints, and assuming exemptions for non-clinical public health research."
+    },
+    {
+        "question": "What is the responsibility of IRBs in high-income countries regarding ethical approval for research in low-income countries?",
+        "answer": "IRBs in high-income countries should offer conditional ethical approval for fieldwork in low-income countries, with the main condition being that appropriate ethical approval should be sought locally as well."
+    },
+    {
+        "question": "What two overarching themes do the authors suggest most reasons for not applying for local ethical approval in low-income countries fit into?",
         "answer": "Arrogance and ignorance."
     },
     {
-        "question": "What should IRBs in high-income countries do when providing ethical approval for fieldwork in low-income countries?",
-        "answer": "IRBs in high-income countries should only offer conditional ethical approval for fieldwork in low-income countries, with the main condition being that appropriate ethical approval should be sought locally too."
+        "question": "What is typically the cause of orbital emphysema?",
+        "answer": "Orbital emphysema is usually caused by trauma and fracture of an orbital bone, allowing air to pass from the sinuses into the orbit."
     },
     {
-        "question": "What does the article suggest is the final responsibility to ensure that public health research is conducted ethically?",
-        "answer": "The final responsibility to ensure that public health research is conducted ethically lies with the researcher."
+        "question": "What unusual symptom did the 67-year-old woman in the case study present with?",
+        "answer": "The 67-year-old woman presented with left exophthalmos that had been worsening over the course of a month, without any history of trauma, sneezing, or surgery."
     },
     {
-        "question": "What is orbital emphysema commonly caused by?",
-        "answer": "Trauma and fracture of an orbital bone."
+        "question": "How was the orbital emphysema in the patient diagnosed?",
+        "answer": "The orbital emphysema was diagnosed using computed tomography (CT) scanning, which showed left frontal sinus pneumocele and orbital emphysema protruding the eyeball forward."
     },
     {
-        "question": "What unusual symptom did the 67-year-old woman present with in the case study?",
-        "answer": "Left exophthalmos."
+        "question": "What surgical intervention did the patient undergo for the treatment of orbital emphysema?",
+        "answer": "The patient underwent surgical intervention that included removal of mucus and the frontal sinus mucosa, enlargement of the sinus ostium by drilling the surrounding bone to fully open the blockage of the communication of the frontal sinus with the nasal cavity."
     },
     {
-        "question": "What did the computed tomography scanning reveal about the patient's condition?",
-        "answer": "Left orbital emphysema and a remarkably enlarged left frontal sinus with a partial defect of the orbital roof."
+        "question": "Why did the patient require surgical treatment instead of conservative management?",
+        "answer": "The patient required surgical treatment because she complained of exophthalmos on the affected side, and a surgical approach was chosen to prevent the recurrence of the frontal sinus pneumocele."
     },
     {
-        "question": "What surgical technique was used to treat the patient's orbital emphysema?",
-        "answer": "Transcranial approach with drilling of the bone surrounding the sinus ostium and radical removal of mucosa in sinuses."
+        "question": "What type of drug is oxaliplatin and what is it primarily used to treat?",
+        "answer": "Oxaliplatin is a third-generation platinum-based chemotherapy drug used in the first-line treatment of advanced colorectal cancer."
     },
     {
-        "question": "What are some potential causes of orbital emphysema besides trauma?",
-        "answer": "Infection, complication of nasal surgery, sneezing, nose blowing, airplane travel, esophageal rupture, and frontal sinus pneumocele."
+        "question": "What are the main side effects associated with oxaliplatin?",
+        "answer": "The main side effects of oxaliplatin are neurotoxicity, mild hematological toxicity (neutropenia, thrombocytopenia, and anemia), and gastrointestinal symptoms (nausea, vomiting, and/or diarrhea)."
     },
     {
-        "question": "What type of cancer is oxaliplatin primarily used to treat?",
-        "answer": "Advanced colorectal cancer"
+        "question": "How is acute neurotoxicity induced by oxaliplatin characterized?",
+        "answer": "Acute neurotoxicity is characterized by transient paresthesia and muscular spasm, often induced or aggravated by exposure to cold."
     },
     {
-        "question": "What are the main types of side effects associated with oxaliplatin?",
-        "answer": "Neurotoxicity, mild hematological toxicity, and gastrointestinal symptoms"
+        "question": "What ocular changes can oxaliplatin therapy cause, and are they usually reversible or permanent?",
+        "answer": "Oxaliplatin therapy can cause a variety of ocular changes such as dry eyes, tearing, conjunctivitis, abnormal lacrimation, retinal damage, or visual field cuts. Most of them are transient and reversible, but sometimes they can be severe and permanent."
     },
     {
-        "question": "How is acute neurotoxicity characterized when it occurs as a side effect of oxaliplatin?",
-        "answer": "By transient paresthesia and muscular spasm, often induced or aggravated by exposure to cold"
+        "question": "What is recommended for patients who experience visual changes while on oxaliplatin therapy?",
+        "answer": "Patients who experience visual changes should undergo a complete ophthalmologic examination, including complementary tests like computerized perimetry, OCT, and electrophysiological tests, to detect ocular toxicity."
     },
     {
-        "question": "What ocular changes can oxaliplatin induce?",
-        "answer": "Dry eyes, tearing, conjunctivitis, abnormal lacrimation, retinal damage, visual field cuts, blurred vision, visual loss, and altered color vision"
+        "question": "What is the median survival time once distant metastases occur in breast cancer?",
+        "answer": "Two to three years"
     },
     {
-        "question": "What is the recommended response if a patient undergoing oxaliplatin therapy reports visual changes?",
-        "answer": "A complete ophthalmologic examination must be performed, including complementary tests like computerized perimetry, OCT, and electrophysiological tests."
+        "question": "What are some of the factors considered when devising management strategies for metastatic breast cancer?",
+        "answer": "Disease-free interval, prior adjuvant therapy prescription, number of metastatic sites, potential for visceral crisis, patient age, patient preference, co-morbid conditions, performance status, and tumor biomarkers such as HER2 status and hormone receptor status."
     },
     {
-        "question": "What is the median survival rate for patients with distant metastases in breast cancer?",
-        "answer": "The median survival rate is only two to three years."
+        "question": "Why are hormone therapies typically preferred over systemic chemotherapy for hormone-sensitive metastatic breast cancer?",
+        "answer": "Hormone therapies are preferred due to their efficacy, generally favorable side-effect profile, and ease of administration."
     },
     {
-        "question": "Why is hormone receptor status critical in the treatment of metastatic breast cancer?",
-        "answer": "Hormone receptor status is critical because treatment strategies are often tailored to the biology of the tumor, and information about hormone receptor status guides the preference for hormone therapies over systemic chemotherapy in most women with hormone-sensitive MBC."
+        "question": "What is the role of aromatase in estrogen production, and why is aromatase inhibitor monotherapy not appropriate for premenopausal women with metastatic breast cancer?",
+        "answer": "Aromatase catalyzes the peripheral conversion of androgen precursors to estrogen, and aromatase inhibitor monotherapy is not appropriate for premenopausal women because it cannot overcome ovary-derived estrogen production."
     },
     {
-        "question": "What has been the traditional treatment strategy for hormone-sensitive metastatic breast cancer, and how has it changed?",
-        "answer": "The hormone treatment strategy was traditionally dominated by tamoxifen, but has been revised with the development of a novel class of hormone-targeting agents called aromatase inhibitors (AIs)."
+        "question": "What has recent evidence suggested about the efficacy of third-generation aromatase inhibitors (AIs) compared to tamoxifen in the treatment of postmenopausal women with hormone-sensitive metastatic breast cancer?",
+        "answer": "Third-generation aromatase inhibitors are at least as efficacious as tamoxifen for first-line treatment, and a recent meta-analysis demonstrated a significant survival advantage with third-generation AIs compared with tamoxifen or progestin therapy."
     },
     {
-        "question": "What is the main source of estrogen in premenopausal and postmenopausal women, respectively?",
-        "answer": "In premenopausal women, the primary source of estrogen is the ovaries, while in postmenopausal women, estrogen is mainly produced from androgen precursors in adipose tissue."
-    },
-    {
-        "question": "What is the EFECT study and its significance in the treatment of hormone-sensitive metastatic breast cancer?",
-        "answer": "The EFECT study was a clinical trial that compared intramuscular fulvestrant, a pure antiestrogen, with oral exemestane. It showed that some patients with tumor progression on a nonsteroidal AI can benefit from switching to a steroidal AI, with equivalent benefits to intramuscularly-administered hormone therapies."
-    },
-    {
-        "question": "What percentage of new cancer cases and cancer deaths occur in patients older than 65 years?",
-        "answer": "More than 60% of new cancer cases and 70% of all cancer deaths."
+        "question": "What percentage of new cancer cases and cancer deaths occur in patients older than 65 years of age?",
+        "answer": "More than 60% of new cancer cases and 70% of all cancer deaths occur in patients older than 65 years of age."
     },
     {
         "question": "Why are elderly cancer patients underrepresented in clinical trials?",
-        "answer": "Underrepresentation may be due to explicit age restrictions, failure to meet eligibility criteria, concerns about comorbidities affecting treatment response, difficulty adhering to study procedures, concerns about toxicity, or the attitude of physicians, patients, and their families."
+        "answer": "Elderly cancer patients are underrepresented in clinical trials due to explicit age restrictions, failure to meet eligibility criteria, concerns that comorbidities may affect treatment response, concerns for difficulty adhering to study procedures, concerns about toxicity, or simply the attitude of physicians, patients, and their families."
     },
     {
-        "question": "What was the primary goal of care for the 78-year-old patient with prostate cancer?",
-        "answer": "To dance at his granddaughter's wedding in 3 months."
+        "question": "What was the primary goal of care for the 78-year-old patient with prostate cancer presented in the case study?",
+        "answer": "The patient's primary goal of care was to dance at his granddaughter's wedding in 3 months."
     },
     {
-        "question": "What are some domains of functional impairment that were associated with toxicity of chemotherapy according to the cancer and aging research group (CARG) study?",
-        "answer": "Hearing impairment, falls, difficulty taking medications, limitations in walking one block, and decreased social activity."
+        "question": "What were the notable findings from the geriatric screening of the patient presented in the case study?",
+        "answer": "The patient was independent in all of his activities of daily living (ADL) and instrumental activities of daily living (IADL), had extensive social support, and was not on any medications considered inappropriate in the elderly by Beers criteria."
     },
     {
-        "question": "What was the main reason the patient in the case study developed acute renal failure, and how was this addressed?",
-        "answer": "The acute renal failure developed subsequent to methotrexate administration. It was addressed by dose reduction due to concerns about his renal function and the choice of a less toxic platinum agent."
+        "question": "What were the outcomes and complications experienced by the patient after starting chemotherapy with carboplatin and doxorubicin?",
+        "answer": "The patient tolerated his first cycle well with improvement in his pelvic pain, but developed acute renal failure after starting methotrexate, requiring hemodialysis for 3 weeks. Following treatment, he had 3 prolonged hospitalizations with multiple complications and ultimately enrolled in hospice, passing away 2 weeks after recurrence was diagnosed and 8 months after his initial diagnosis."
     },
     {
-        "question": "What was the significance of the early work by Bergmann on Caribbean sponges?",
-        "answer": "Bergmann's work on Caribbean sponges led to the isolation of the first arabino-nucleosides and inspired the development of clinically important antitumor drugs such as ara A and ara C."
+        "question": "What is the significance of the early pioneering work by Bergmann on sponges from the genera Tethya and Cryptotethya?",
+        "answer": "Bergmann's early pioneering work on sponges from the genera Tethya and Cryptotethya led to the isolation of spongosine, spongothymidine, and spongouridine, the first arabino-nucleosides, and inspired the development of clinically important antitumor drugs ara A and ara C."
     },
     {
-        "question": "What compound is salvadenosine (1), and from which organism was it isolated?",
-        "answer": "Salvadenosine (1) is an uncommon 5-deoxy-5-(methylthio) nucleoside, and it was isolated from an encrusting deep-water tunicate didemnum sp."
+        "question": "What is Salvadenosine and from which marine organism was it isolated?",
+        "answer": "Salvadenosine (1) is an uncommon 5-deoxy-5-(methylthio) nucleoside isolated from an encrusting deep-water tunicate of the species Didemnum sp."
     },
     {
-        "question": "How was the molecular formula of salvadenosine (1) established?",
-        "answer": "The molecular formula of salvadenosine (1), C11H15N5O4S, was established from HRMS (ESI-TOF M/Z 312.0777 [M-H])."
+        "question": "How was the molecular formula of salvadenosine established, and what is it?",
+        "answer": "The molecular formula of salvadenosine, C11H15N5O4S, was established from high-resolution mass spectrometry (HRMS) with an ESI-TOF M/Z measurement of 312.0777 [M-H]."
     },
     {
-        "question": "What were the revised findings about hamiguanosinol's structure, and how was the revision confirmed?",
-        "answer": "The revised findings indicated that the structure of hamiguanosinol is the keto tautomer 5, not the enol 2. This was confirmed by repeating the synthesis from guanosine and showing that the chemical shifts of the product matched those reported for natural hamiguanosinol."
+        "question": "What were the reasons for revising the structure of hamiguanosinol?",
+        "answer": "The structure of hamiguanosinol was revised because of distinct differences in the hydrogen (H) and carbon (C) chemical shifts, inconsistencies between SPC NMR signals and correlations, and the comparison of chemical shifts with those of synthesized compounds, leading to reclassification from the enol tautomer to the keto form."
     },
     {
-        "question": "What is speculated as the biosynthetic origin of salvadenosine (1) from S-adenosylmethionine (SAM)?",
-        "answer": "It is speculated that salvadenosine (1) may arise through displacement of 5-deoxy-5-(methylthio)adenosine from SAM, possibly through a LuxI-type mechanism with the release of homoseryl lactone, followed by the conversion to 1 by electrophilic or free-radical attack at C-8 with reactive oxygen species."
+        "question": "What is the proposed hypothetical biosynthetic origin of salvadenosine?",
+        "answer": "It is speculated that salvadenosine may arise through displacement of 5-deoxy-5-(methylthio)adenosine from S-adenosylmethionine (SAM), possibly via a LuxI-type mechanism, and then converted to salvadenosine by electrophilic or free-radical attack at C-8 with reactive oxygen species."
     },
     {
-        "question": "What is the purpose of Net Reclassification Improvement (NRI) in risk prediction models?",
-        "answer": "The purpose of Net Reclassification Improvement (NRI) is to evaluate the improvement of risk prediction models by calculating the amount of correctly and incorrectly reclassified cases and non-cases when comparing classification into predefined risk categories between two nested models."
+        "question": "What metric was proposed by Pencina et al. in 2008 for evaluating extensions to prediction models?",
+        "answer": "The net reclassification improvement (NRI) was proposed."
     },
     {
-        "question": "Why is there heterogeneity in the use and interpretation of NRI, as mentioned in the article?",
-        "answer": "There is heterogeneity in the use and interpretation of NRI because of the ongoing effort to improve prediction models, uncertainties related to testing statistical significance of NRI estimates, and the lack of established methods for inference for the NRI."
+        "question": "What does the Net Reclassification Improvement (NRI) measure?",
+        "answer": "The NRI measures the amount of correctly and incorrectly reclassified cases and non-cases when comparing two nested models."
     },
     {
-        "question": "How does the integration of family history as a new risk marker in the German Diabetes Risk Score (GDRS) impact the classification of diabetes risk?",
-        "answer": "The integration of family history as a new risk marker in the GDRS impacts the classification of diabetes risk by causing reclassification of cases and non-cases across predefined risk categories, which can be measured by the NRI."
+        "question": "Why is there uncertainty in testing the statistical significance of NRI estimates?",
+        "answer": "There is uncertainty because valid methods for inference for the NRI do not exist, and even small NRI values can produce statistically significant p-values."
     },
     {
-        "question": "What is the main limitation in the use of NRI that the article discusses?",
-        "answer": "The main limitation in the use of NRI discussed in the article is the reliance on categories and cut-offs, which can be arbitrary and lack established thresholds for interpreting NRI values as meaningful for clinical or public health perspectives."
+        "question": "In the context of the article, what was the purpose of using a confidence ellipse for the NRI?",
+        "answer": "The confidence ellipse was used to reflect the precision of the NRI estimates for cases and non-cases in combination, and to help interpret the magnitude and variability of the observed effects."
     },
     {
-        "question": "What is the advantage of using a confidence ellipse in the context of NRI, as opposed to evaluating single components separately?",
-        "answer": "The advantage of using a confidence ellipse in the context of NRI is that it allows for the evaluation of the precision of the NRI estimates for cases and non-cases in combination and puts the results in the context of overall model improvement, reflecting the 2-dimensional nature of the situation."
+        "question": "What was the major drawback of examining single components of NRI in isolation, as mentioned in the article?",
+        "answer": "Examining single components in isolation does not allow for interpretation in terms of the overall model improvement."
     },
     {
-        "question": "What is CKD-MBD and what are its components?",
-        "answer": "CKD-MBD (Chronic Kidney Disease Mineral and Bone Disorder) is a syndrome currently defined by one or a combination of the following: abnormalities of calcium, phosphorus, parathyroid hormone, or vitamin D metabolism; abnormalities in bone turnover, mineralization, volume, linear growth, or strength; and/or vascular or other soft-tissue calcifications."
+        "question": "What is CKD-MBD and what aspects does it currently define?",
+        "answer": "CKD-MBD stands for Chronic Kidney Disease Mineral and Bone Disorder. It is defined by one or a combination of the following: abnormalities of calcium, phosphorus, PTH, or vitamin D metabolism; abnormalities in bone turnover, mineralization, volume, linear growth, or strength; and/or vascular or other soft-tissue calcifications."
     },
     {
-        "question": "What is the gold standard for diagnosing renal osteodystrophy?",
-        "answer": "The gold standard for diagnosing renal osteodystrophy is bone biopsy, as biochemical parameters do not adequately predict the underlying bone histology."
+        "question": "What is the gold standard for diagnosis of renal osteodystrophy?",
+        "answer": "The gold standard for the diagnosis of renal osteodystrophy is bone biopsy because biochemical parameters do not adequately predict the underlying bone histology."
     },
     {
-        "question": "What does the term 'adynamic bone disease' (ABD) refer to, and what are its characteristics?",
-        "answer": "Adynamic bone disease (ABD) refers to a type of disorder characterized by low bone turnover with normal mineralization, marked by an absence of osteoid accumulation, diminished number of osteoblasts, bone formation rate, and activation frequency."
+        "question": "How has the prevalence of adynamic bone disease (ABD) changed in CKD populations?",
+        "answer": "Adynamic bone disease (ABD) is increasing in prevalence in many CKD populations and now represents the most frequent type of bone lesion."
     },
     {
-        "question": "How does paricalcitol affect bone compared to calcitriol according to the in vitro study by Nakane et al.?",
-        "answer": "According to the in vitro study by Nakane et al., paricalcitol caused less calcium release from mouse calvariae than did calcitriol, and it was the most effective preparation in stimulating collagen synthesis, contributing to its lower calcemic profile and possibly being more effective in stimulating bone formation."
+        "question": "What have recent studies shown about the relationship between bone formation rate and PTH?",
+        "answer": "Recent studies have shown that the bone formation rate is associated with resistance to PTH."
     },
     {
-        "question": "What is the implication of a U-shaped curve in the context of parathyroid hormone (PTH) levels and mortality?",
-        "answer": "The U-shaped curve implies that not only high but also low intact PTH plasma levels, as well as low PTH and high serum calcium levels (a combination typical for ABD), are associated with increased mortality, indicating a complex relationship between ABD, abnormal calcium balance, calcific arteriolopathy, vascular calcification, and mortality."
+        "question": "What impact does adynamic bone disease have on patients' health?",
+        "answer": "Adynamic bone disease diminishes the ability to repair microdamage, resulting in an increased risk of fractures and potentially contributing to increased mortality, especially when associated with abnormal calcium balance and vascular calcification."
     },
     {
-        "question": "What materials compose a DGT sampling unit?",
-        "answer": "A DGT sampling unit consists of a resin gel, a diffusive gel, a protective membrane, and a sampler housing."
+        "question": "What components are included within a DGT sampling unit?",
+        "answer": "A DGT sampling unit consists of a resin gel, covered by a diffusive gel with a defined thickness and a protective membrane, all of which are enclosed in a sampler housing."
     },
     {
-        "question": "How is the solute concentration at the sampler medium interface calculated according to the article?",
-        "answer": "The solute concentration at the sampler medium interface is calculated using the 1D steady-state solution of Fick's first law of diffusion."
+        "question": "How is the solute concentration at the sampler medium interface calculated using the DGT device?",
+        "answer": "The solute concentration at the sampler medium interface can be calculated using Fick's first law of diffusion, which involves factors such as diffusive flux, solute diffusion coefficient, concentration in the exterior solution, concentration in the resin gel, diffusion layer thickness, mass of solute bound by the resin layer, physical sampling window surface area, and sampling time."
     },
     {
-        "question": "What effects did Warnken et al. observe when they evaluated their experimental results using a physical sampling window surface area?",
+        "question": "What did Warnken et al. observe when evaluating their experimental results using the physical sampling window surface area?",
         "answer": "Warnken et al. observed systematically higher cbdgt values compared to cb after correcting for the dbl-related mass uptake decrease."
     },
     {
-        "question": "In the study, what was the effect of the diffusive boundary layer (dbl) on the solute uptake?",
-        "answer": "The diffusive boundary layer (dbl) was found to significantly decrease the solute uptake."
+        "question": "What modification did Garmo et al. suggest for the expanded DGT equation to account for lateral diffusion effects?",
+        "answer": "Garmo et al. suggested using an effective sampling area (aeff) instead of the physical sampling window area to account for the lateral diffusion effect."
     },
     {
-        "question": "What is the lateral diffusion flux increase coefficient (kld) and how is it defined?",
-        "answer": "The lateral diffusion flux increase coefficient, kld, is defined as the ratio of the solute flux into the sampler in the 3D situation to the 1D flux, accounting for the effect of lateral diffusion at the sampler edges."
+        "question": "Why might kdbl be omitted in most studies despite the slight difference it may cause in DGT measurements?",
+        "answer": "Kdbl might be omitted in most studies because the error by neglecting this correction is small, and determining kdbl for each individual DGT deployment would require numerical simulation, which is impractical."
     },
     {
-        "question": "What is the pathology discussed in the article that involves ocular complications?",
-        "answer": "Loiasis"
+        "question": "What is the primary ocular condition described in the baby from the case study?",
+        "answer": "The primary ocular condition described in the baby from the case study is the intraocular migration of an adult worm, specifically an adult male Loa loa."
     },
     {
-        "question": "What was the main symptom that led to the baby being brought to the emergency room?",
-        "answer": "Irritability, insomnia, painful red eye, photophobia, and tearing"
+        "question": "What were the initial symptoms that led to the baby being brought to the clinic?",
+        "answer": "The initial symptoms that led to the baby being brought to the clinic included irritability, insomnia, painful red eye, photophobia, and tearing."
     },
     {
-        "question": "How was the intraocular worm in the baby's eye eventually removed?",
-        "answer": "Surgical intervention with a limbal-based incision and expulsion of the worm from the anterior chamber"
+        "question": "What were the results of the baby's blood tests and skin snip test?",
+        "answer": "The baby's multiple blood smear and skin snip test for onchocerciasis were negative, and the blood count revealed moderate hypereosinophilia."
     },
     {
-        "question": "What did the lab analysis suggest about the identity of the worm after examining its physical characteristics?",
-        "answer": "An adult male Loa loa worm"
+        "question": "How was the worm removed from the baby's eye, and what were the post-operative treatments?",
+        "answer": "The worm was removed through a surgical intervention with a limbal-based incision, followed by post-operative treatment that included bethamethasone drops, a combination of dexamethasone and neomycine, and atropine drops."
     },
     {
-        "question": "What treatment was given to the baby post-operatively?",
-        "answer": "Bethamethason, a topical combination of dexamethason and neomycine, and atropine drops"
+        "question": "What relationship do the authors suggest exists between Loa loa infection and the possibility of blindness?",
+        "answer": "The authors suggest that Loa loa infection, which is a serious parasitic infection with a disease burden that isn't exactly known, may lead to blindness due to the general complications seen in patients with chronic high parasitemia resulting from immunological reactions."
     },
     {
-        "question": "What is the importance of detecting colorectal cancer (CRC) at an early stage?",
-        "answer": "Early detection of CRC can reduce mortality and improve survival rates."
+        "question": "How many patients are affected by colorectal cancer (CRC) annually in the United States?",
+        "answer": "Close to 150,000 patients"
     },
     {
-        "question": "Why are scientists looking for new screening tools for colorectal cancer?",
-        "answer": "Current screening methods like FOBT and colonoscopy have limitations and can result in false positives and negatives, and invasive methods can cause adverse effects."
+        "question": "What is the role of the SFRP2 gene in the context of colorectal cancer?",
+        "answer": "The SFRP2 gene functions as a negative regulator of the oncogenic WNT pathway, and its methylation status is used as a biomarker for CRC detection in stool samples."
     },
     {
-        "question": "How is the methylation status of the sfrp2 gene used in the study?",
-        "answer": "The methylation status of the sfrp2 gene in stool samples is used to screen and detect CRC in its early stages using methylation-specific polymerase chain reaction (MSP)."
+        "question": "What are the limitations of fecal occult blood tests (FOBT) in CRC screening?",
+        "answer": "FOBT has limitations in detecting CRC due to its low sensitivity, which ranges approximately from 15-35%, and it cannot detect tumors that aren't bleeding."
     },
     {
-        "question": "What were the sensitivity and specificity percentages found for the sfrp2 gene marker in the study?",
-        "answer": "For the sfrp2 gene, sensitivity was 60% and specificity was 92%."
+        "question": "What method did researchers use to detect the methylation status of the SFRP2 gene in their study?",
+        "answer": "Researchers used methylation-specific polymerase chain reaction (MSP) to detect the methylation status of the SFRP2 gene in stool samples."
     },
     {
-        "question": "What are the advantages of using DNA methylation as a biomarker for CRC screening?",
-        "answer": "DNA methylation is a non-invasive method with high sensitivity, and can be used as an early diagnostic tool for CRC."
+        "question": "What were the sensitivity and specificity of the SFRP2 gene as a DNA-based marker in the detection of CRC?",
+        "answer": "For the SFRP2 gene, sensitivity was 60% and specificity was 92%."
     },
     {
-        "question": "What hypotheses did the study test regarding the paediatric intensive care population?",
-        "answer": "The study tested the null hypotheses that the paediatric intensive care population weight distribution does not differ from that of the general population and that weight-for-age at admission does not influence risk-adjusted mortality."
+        "question": "What is the primary outcome measure used in the study?",
+        "answer": "The primary outcome was risk-adjusted mortality during PICU admission or within 30 days of discharge."
     },
     {
-        "question": "How was the weight of paediatric patients compared to the UK population reference data?",
-        "answer": "The weight of paediatric patients was compared to the UK population reference data by calculating a weight-for-age standard deviation score (SDS), which is the number of standard deviations by which a weight value differs from the population mean."
+        "question": "How were weight-for-age standard deviation scores (SDS) calculated and compared?",
+        "answer": "Admission weight for each child was compared to UK population reference data by calculating a weight-for-age standard deviation score (SDS); SDS is the number of standard deviations by which a weight value differs from the population mean."
     },
     {
-        "question": "What was the primary outcome of the study?",
-        "answer": "The primary outcome was risk-adjusted mortality during paediatric intensive care unit (PICU) admission or within 30 days of discharge."
+        "question": "What was the mean weight-for-age at admission of the study population compared to the UK reference population?",
+        "answer": "The mean weight-for-age at admission of the study population was 1.04 standard deviations less than that of the UK reference population."
     },
     {
-        "question": "According to the study's findings, which weight-for-age group had the lowest risk of mortality?",
-        "answer": "The lowest risk of mortality occurred in children with a weight-for-age at admission between 0.5 and 2.5 standard deviations above the UK mean weight-for-age."
+        "question": "What did the study's multivariable logistic regression analysis demonstrate regarding weight-for-age at admission?",
+        "answer": "The study's multivariable logistic regression analysis demonstrated that weight-for-age at admission is an independent risk factor for mortality, as are age, gender, and ethnicity."
     },
     {
-        "question": "What did the study reveal about the relationship between weight-for-age at admission and risk-adjusted mortality?",
-        "answer": "The study revealed a U-shaped association between weight-for-age at admission and risk-adjusted mortality, indicating the highest risk of mortality occurs with extreme under- or overweight."
+        "question": "What trend is indicated by the plot of standardised mortality ratios (SMRs) versus weight-for-age at admission standard deviation scores?",
+        "answer": "A U-shaped association is indicated, with the highest risk of mortality occurring with extreme under- or overweight, and the lowest risk of mortality occurring in children with a weight-for-age at admission between 0.5 and 2.5 standard deviations above the UK mean weight-for-age."
     },
     {
-        "question": "What neurological conditions are autism spectrum disorders (ASD) hypothesized to result from?",
-        "answer": "ASD are hypothesized to result from synaptic dysfunction or synaptopathy."
+        "question": "Are extremes of weight-for-age associated with an increased risk of death in children older than 5 years of age according to the study?",
+        "answer": "No, in children older than 5 years of age, extremes of weight-for-age are not associated with increased risk of death."
     },
     {
-        "question": "What association has been found in numerous studies regarding ASD?",
+        "question": "What are autism spectrum disorders (ASD) considered to be a result of according to the article?",
+        "answer": "ASD are considered to be a result of synaptic dysfunction or synaptopathy."
+    },
+    {
+        "question": "What has been reported in numerous studies regarding trace metal homeostasis and ASD?",
         "answer": "A strong association between imbalance in trace metal homeostasis and ASD has been reported in numerous studies."
     },
     {
-        "question": "What was the purpose of the experiments carried out on primary hippocampal neurons?",
-        "answer": "The experiments were carried out to investigate the interplay and effects of a dyshomeostasis of different metal ions and the resultant pathological alterations of synapses."
+        "question": "What trace metals were frequently described as elevated in ASD patients?",
+        "answer": "Trace metals such as cadmium (Cd), copper (Cu), mercury (Hg), and lead (Pb) were frequently described as elevated in ASD patients."
     },
     {
-        "question": "What effect did chronic treatment with metal chlorides have on synaptic parameters in the study?",
-        "answer": "Chronic treatment of primary rat neuronal cultures with metal chlorides had an effect on various synaptic parameters, potentially causing synaptic defects."
+        "question": "In the study, what was one aim of treating hippocampal neuronal cell cultures with different concentrations of trace metals?",
+        "answer": "One aim was to analyze the influence of each trace metal on cell health and synapse numbers separately."
     },
     {
-        "question": "What was observed after zinc supplementation in the context of the ASD-like trace metal profile in cultured cells?",
-        "answer": "After zinc supplementation, there was a significant reduction in dendritic fragmentation, a rescue in the number of synapses, and an increase in mRNA levels of certain synaptic receptors and proteins."
+        "question": "What did zinc (Zn) supplementation demonstrate in the study regarding ASD?",
+        "answer": "Zinc supplementation was able to overcome some synaptic defects induced by the trace metal profile characteristic for ASD patients."
     },
     {
-        "question": "What was the purpose of optimizing the fat-1 cDNA coding region?",
-        "answer": "The fat-1 cDNA coding region was optimized for mammalian cell expression."
+        "question": "What was the purpose of optimizing the coding region of fat-1 cDNA?",
+        "answer": "The purpose was to optimize it for mammalian cell expression."
     },
     {
         "question": "How was the mfat-1 expression cassette introduced into the C57BL/6 mice?",
-        "answer": "The mfat-1 expression cassette was introduced into the C57BL/6 mice by pronuclear microinjection."
+        "answer": "It was introduced into C57BL/6 mice by pronuclear microinjection."
     },
     {
-        "question": "What type of enhancer and promoter were used in the mfat-1 expression cassette?",
-        "answer": "The mfat-1 expression cassette used a cytomegalovirus (CMV) enhancer and a chicken beta-actin promoter tethered with a muscle creatine kinase (MCK) enhancer."
+        "question": "What was used to infect rat insulinoma INS-1 cells and isolated islets for the experiments?",
+        "answer": "An adenoviral vector carrying either mfat-1 or lacZ cDNA was used to infect rat insulinoma INS-1 cells and isolated islets."
     },
     {
-        "question": "In the study, what treatment did the adenovirus-infected INS-1 cells or islets receive after 48 hours of infection?",
-        "answer": "The adenovirus-infected INS-1 cells or islets were exposed to cytokines which included interleukin-1 (IL-1), interferon-gamma (IFN-\u03b3), and tumor necrosis factor-alpha (TNF-\u03b1) for 48 hours."
+        "question": "What was the observed effect on insulin secretion when high glucose or GLP-1 was added to mfat-1 transgenic islets?",
+        "answer": "The level of insulin secretion was significantly higher in mfat-1 transgenic islets compared to wild type."
     },
     {
-        "question": "What was the impact of mfat-1 expression on insulin secretion and cytokine-induced cell death?",
-        "answer": "The expression of mfat-1 enhanced glucose, amino acid, and GLP-1 stimulated insulin secretion in isolated pancreatic islets and made the islets strongly resistant to cytokine-induced cell death."
+        "question": "What was the outcome of introducing mfat-1 cDNA into wild-type islets or cultured cells using an adenoviral vector?",
+        "answer": "It provided strong protection against cytokine-induced cell death."
     },
     {
-        "question": "What symptom of bone cancer pain is considered highly debilitating to patients?",
-        "answer": "Depression, anxiety, and functional status deterioration, all of which can severely affect the quality of life."
+        "question": "What is bone cancer pain (BCP) and what complications can it cause?",
+        "answer": "Bone cancer pain is the most common complication when tumors metastasize to the bone, causing depression, anxiety, and other complications, and can be highly debilitating to patients' functional status and quality of life."
     },
     {
-        "question": "What was the purpose of understanding cellular and molecular mechanisms underlying bone cancer pain according to the article?",
-        "answer": "Understanding these mechanisms is important for effectively treating patients with bone cancer pain."
+        "question": "What is significant about the sigma-1 receptor in the context of the central nervous system and bone cancer pain?",
+        "answer": "The sigma-1 receptor is highly expressed in neurons and glia of multiple regions within the central nervous system and it can modulate the activation of various ion channels and receptors, playing an important role in the development of bone cancer pain."
     },
     {
-        "question": "Which receptor's role was explored in the context of bone cancer pain in the study?",
-        "answer": "The sigma-1 receptor."
+        "question": "What were the main findings regarding the sigma-1 receptor in the study involving Walker 256 mammary gland carcinoma cells implanted into rats?",
+        "answer": "The study found that the expression of the sigma-1 receptor significantly increased in the spinal cord following inoculation with Walker 256 cells, peaked on day 10, and declined slowly from days 14 to 21, suggesting its pivotal role in the early stage of bone cancer pain."
     },
     {
-        "question": "What was the experimental treatment tested on rats to suppress mechanical allodynia and activation of spinal microglia in the study?",
-        "answer": "Intrathecal administration of the selective sigma-1 receptor antagonist BD1047."
+        "question": "How did the administration of the sigma-1 receptor antagonist BD1047 affect bone cancer pain in rats?",
+        "answer": "The administration of BD1047 significantly suppressed the initiation of mechanical allodynia, reduced spinal c-fos expression, prevented the spinal upregulation of p-NR1 and p-ERK, and decreased the number of Iba-1 immunoreactive cells, suggesting a therapeutic use for sigma-1 receptor antagonists in bone cancer pain management."
     },
     {
-        "question": "What was the outcome of using BD1047 in the treatment of bone cancer pain in the study?",
-        "answer": "BD1047 significantly alleviated bone cancer-induced mechanical allodynia and suppressed the upregulation of certain molecules and expressions related to pain in the spinal cord."
+        "question": "What results indicated a potential relationship between the activation of the sigma-1 receptor and microglia in the study?",
+        "answer": "The study indicated that there may be a potential relationship between the activation of sigma-1 receptor and microglia, as the upregulation of Iba-1, p-P38 MAPK, and TNF-\u03b1 expression were affected by BD1047 administration, suggesting sigma-1 receptor's involvement in pain facilitation through the activation of spinal microglia."
     },
     {
-        "question": "In what year did Korea achieve universal health insurance coverage?",
-        "answer": "1989"
+        "question": "When did South Korea achieve universal health insurance coverage?",
+        "answer": "In 1989, South Korea achieved universal health insurance coverage."
     },
     {
-        "question": "What were the initial groups covered by the national health insurance when it was first introduced in Korea in July 1977?",
-        "answer": "All employees of large enterprises with 500 or more employees"
+        "question": "What were the key principles recommended to the president of South Korea for the national health insurance system in 1972?",
+        "answer": "The key principles were that the program should follow market principles, population coverage would gradually expand according to the pace of economic recovery, investments should be made to modernize hospital facilities, and decisions regarding medical fees should involve consultation with various stakeholders."
     },
     {
-        "question": "What were the main principles of the health insurance proposal recommended to the president of Korea in 1972?",
-        "answer": "The program should follow market principles, expand population coverage gradually with economic recovery, invest in modernizing hospitals, and set medical fees through consultation with stakeholders"
+        "question": "What was the initial scope of the national health insurance when it was first introduced in 1977?",
+        "answer": "The initial scope was to cover all employees of large enterprises with 500 or more employees."
     },
     {
-        "question": "What was the primary challenge faced by district health insurance societies in Korea?",
-        "answer": "The lack of transparent income data and the resulting difficulty in setting up equitable contribution levels"
+        "question": "What was a notable feature of the district health insurance program for farmers and fishermen?",
+        "answer": "A notable feature was that the government immediately subsidized 30% of the premium for those expected to have difficulties in paying contributions."
     },
     {
-        "question": "What major step did Korea take in 2000 to improve its health insurance system?",
-        "answer": "All insurer societies were merged into a single insurer called the Korean National Health Insurance Corporation (KHIC)"
+        "question": "What was the outcome of integrating multiple insurer societies into a single insurer in 2000?",
+        "answer": "The integration into a single insurer helped stabilize finances through greater pooling effect, improved income transfer effects, and corrected some inequalities in contributions and benefits that existed between insurers."
     },
     {
-        "question": "What are the genera of dermatophytes that cause infections in mammalian skin, nail, and hair?",
-        "answer": "Trichophyton, Microsporum, and Epidermophyton"
+        "question": "What are dermatophytes?",
+        "answer": "Dermatophytes are closely related keratinophilic fungi in the genera Trichophyton, Microsporum, and Epidermophyton that degrade the skin, nail, and hair of mammals and cause a cutaneous infection known as dermatophytosis."
     },
     {
-        "question": "What recent advancements have helped in the precise identification and epidemiology of dermatophytes?",
-        "answer": "Advancements in nucleotides sequencing and other DNA-based methods."
+        "question": "Why is the epidemiology of dermatophytosis and dermatophytes considered dynamic?",
+        "answer": "The epidemiology of dermatophytosis and dermatophytes is dynamic because it may alter due to changes in factors such as socioeconomic, environmental and climate conditions, occupation, lifestyle, immigration movements, travel activities and cultural practices."
     },
     {
-        "question": "During which time period was the study conducted that included dermatophyte strains from 500 culture-proven cases of dermatophytosis in Iran?",
-        "answer": "From June 2011 to June 2012"
+        "question": "What molecular method was used to identify dermatophytes in the study described in the article?",
+        "answer": "PCR-RFLP (Polymerase Chain Reaction-Restriction Fragment Length Polymorphism) on the beta-tubulin gene was used to identify dermatophytes in the study."
     },
     {
-        "question": "What method was used to verify the presence of fungal elements in the study?",
-        "answer": "Direct microscopic examination of skin scrapings, nails and hair shafts with 20% potassium hydroxide (KOH)."
+        "question": "Which province in Iran had the highest number of dermatophyte strains isolated from patients according to the study?",
+        "answer": "Tehran had the highest number of dermatophyte strains isolated from patients according to the study."
     },
     {
-        "question": "Which molecular technique was used for identification of dermatophytes in the study?",
-        "answer": "PCR-RFLP on the beta-tubulin (BT2) gene."
+        "question": "What was the most common species causing dermatophytosis in the study and which clinical condition was predominantly caused by this species?",
+        "answer": "T. interdigitale was the most common species causing dermatophytosis in the study, and the predominant clinical condition caused by this species was tinea pedis (athlete's foot)."
     },
     {
-        "question": "What is the main goal of a dentist when performing carious process excavation?",
-        "answer": "The main goal of a dentist is to remove the irreversibly demineralised superficial tissue and the highly infected biomass of carious dentin."
+        "question": "What is the main aim of a dentist during the carious process?",
+        "answer": "The main aim of a dentist during the carious process is to remove the irreversibly demineralised superficial tissue and the highly infected biomass of carious dentin."
     },
     {
-        "question": "Why might new restorative materials have difficulty adhering to heavily infected dentin tissue?",
-        "answer": "New restorative materials have difficulty adhering to heavily infected dentin tissue if it is retained at the cavity floor because of the infection."
+        "question": "Why is it difficult for new restorative materials to adhere to heavily infected dentin tissue?",
+        "answer": "New restorative materials find it difficult to adhere to heavily infected dentin tissue because if it is retained at the cavity floor, it adversely affects the long-term prognosis of the final restoration."
     },
     {
-        "question": "What are the clinical markers that dentists use to guide the excavation of infected, demineralised dentin?",
-        "answer": "Dentists commonly use hardness/texture of the tissue, its color, and may use caries detector dyes as clinical markers to guide the excavation of infected, demineralised dentin."
+        "question": "What criteria do dental practitioners commonly use to guide clinical excavation of infected, demineralised dentin?",
+        "answer": "Dental practitioners commonly use the hardness/texture of the tissue, its color, and may use caries detector dyes to guide clinical excavation of infected, demineralised dentin."
     },
     {
-        "question": "How do caries detection dyes work, and what should not be done when using them?",
-        "answer": "Caries detection dyes consist of 1% acid red in propylene glycol and stain the demineralised dentin light pink. Light pink stained dentin should not be removed to prevent excessive dentin removal."
+        "question": "What are some of the new techniques developed for objective caries detection?",
+        "answer": "New techniques developed for objective caries detection include electrical conductivity measurement (ECM) and laser fluorescence (LF) devices."
     },
     {
-        "question": "What was the aim of the study comparing ECM, LF, and CDD in detection of residual dentinal caries in excavated cavities?",
-        "answer": "The aim of the study was to compare histologically the efficiency of ECM, LF, and CDD in detection of residual dentinal caries in excavated cavities and assess their accuracy, sensitivity, specificity, and inter- and intraobserver accuracy."
+        "question": "What was the main aim of the study mentioned in the article?",
+        "answer": "The main aim of the study was to compare histologically the efficiency of ECM, LF, and CDD in detection of residual dentinal caries in excavated cavities and to assess the accuracy, sensitivity, specificity, and inter- and intraobserver accuracy of these diagnostic methods in detecting residual caries in cavity preparation."
     },
     {
-        "question": "What is the role of autophagy in maintaining cellular homeostasis?",
-        "answer": "Autophagy plays an important role in developing and maintaining cellular homeostasis by targeting aged or malfunctioning organelles and damaged or misfolded proteins for lysosomal degradation."
+        "question": "What role does autophagy play at basal levels in cells?",
+        "answer": "At basal levels, autophagy plays an important role in developing and maintaining cellular homeostasis and genomic integrity."
     },
     {
-        "question": "How has the inhibition of autophagy been shown to affect cancer cells?",
-        "answer": "The pharmacological and/or genetic inhibition of autophagy can sensitize cancer cells to the lethal effects of various cancer therapies, such as chemotherapy, radiotherapy, and targeted therapies."
+        "question": "How does autophagy contribute to cancer cell survival?",
+        "answer": "Autophagy may contribute to cancer cell survival by promoting cell survival in response to metabolic or oncogenic stress and to resistance to chemotherapy."
     },
     {
-        "question": "What triggers the induction of autophagy as detailed in the article?",
-        "answer": "Nutrient starvation results in mTOR inhibition and induction of autophagy."
+        "question": "What is the consequence of pharmacological or genetic inhibition of autophagy in cancer cells?",
+        "answer": "The pharmacological or genetic inhibition of autophagy can sensitize cancer cells to the lethal effects of various cancer therapies, including chemotherapy, radiotherapy, and targeted therapies."
     },
     {
-        "question": "What method was suggested as an alternative to GFP-labeling and electron microscopy for monitoring autophagy regulation in tissues?",
-        "answer": "Immunohistochemistry (IHC) was suggested as an alternative method for assessing autophagy regulation in tissues in clinically relevant settings."
+        "question": "What enzymes are involved in the lipid conjugation of autophagy-specific ubiquitin-like proteins (UBLs), essential for autophagosome formation?",
+        "answer": "The enzymes involved in the lipid conjugation of autophagy UBLs are the E1 activating enzyme ATG7, the E2 conjugating enzyme ATG3, and an E3 ligase complex consisting of ATG5ATG12/ATG16."
     },
     {
-        "question": "What is the function of ATG7 in the process of autophagy, and what happens when it is knocked down?",
-        "answer": "ATG7 is an E1 activating enzyme that is essential for lipid conjugation of autophagy-specific ubiquitin-like proteins, necessary for autophagosome formation. Knockdown of ATG7 reduces UBL lipidation and slows down the basal constitutive autophagy process, leading to the accumulation of autophagy adapter proteins like p62 and NBR1."
+        "question": "What detection methods are discussed in the article for monitoring autophagy regulation in vitro and why are they not ideal for in vivo drug discovery settings?",
+        "answer": "Detection of GFP-labeled autophagy proteins such as LC3B or electron microscopy are discussed for monitoring autophagy regulation in vitro, but these approaches are not ideal for in vivo drug discovery settings due to their limitations in sensitivity and practicality."
     },
     {
-        "question": "What is the common term for a peritonsillar abscess?",
+        "question": "What is a peritonsillar abscess (PTA) also known as?",
         "answer": "Quinsy"
     },
     {
-        "question": "Which bacteria are considered key causative pathogens in PTA?",
-        "answer": "Streptococcus pyogenes, Fusobacterium necrophorum and Streptococcus milleri group"
+        "question": "What are the key causative pathogens of PTA mentioned in the article?",
+        "answer": "Streptococcus pyogenes, Fusobacterium necrophorum, and Streptococcus milleri group"
     },
     {
-        "question": "What were the main treatment methods for PTA mentioned in the article?",
+        "question": "What treatment methods are included in the management of PTA?",
         "answer": "Needle aspiration, surgical drainage, quinsy tonsillectomy combined with antimicrobial therapy"
     },
     {
-        "question": "What kind of study was conducted to explore the PTA epidemiology, clinical history and microbiology in Radom, Poland?",
-        "answer": "A retrospective study"
+        "question": "What was the gender distribution of the PTA study population treated at the Regional Specialist Hospital in Radom, Poland?",
+        "answer": "57.7% males and 42.3% females"
     },
     {
-        "question": "What was the percentage of PTA patients with a history of recurrent pharyngotonsillitis in the Polish study?",
+        "question": "According to the study, what percentage of PTA patients had a history of recurrent tonsillitis?",
         "answer": "35.5%"
     },
     {
-        "question": "What is hepatic encephalopathy due to intrahepatic portosystemic venous shunts without portal hypertension?",
-        "answer": "It is a rare condition where there is a vascular anomaly defined as a communication between the portal and systemic venous circulations inside the liver."
+        "question": "What is hepatic encephalopathy due to IPSVS without portal hypertension?",
+        "answer": "It is a rare condition defined as a communication between the portal and systemic venous circulations, measuring more than 1 mm in diameter and being at least partially located inside the liver."
     },
     {
-        "question": "When is interventional treatment for IPSVS considered necessary?",
-        "answer": "Interventional treatment for IPSVS is required if the conservative treatments for hepatic encephalopathy, such as restriction of protein and administration of nonabsorbable antibiotics and lactulose, are not sufficiently effective."
+        "question": "What treatments are considered for hepatic encephalopathy when conservative treatments are not effective?",
+        "answer": "Interventional treatments like shunt ligation, hepatic resection, liver transplantation, and transcatheter embolization of the causative vessel are considered."
     },
     {
-        "question": "What treatment did the patient with hepatic encephalopathy due to congenital multiple IPSVS undergo?",
-        "answer": "The patient was successfully treated by percutaneous transhepatic obliteration, which included transcatheter embolization of the causative vessel."
+        "question": "How was the patient with congenital multiple IPSVS in the case study treated?",
+        "answer": "The patient was treated by percutaneous transhepatic obliteration."
     },
     {
-        "question": "What changes were observed in the patient's condition following the transcatheter embolization for IPSVS?",
-        "answer": "The serum ammonia level normalized the day after the endovascular shunt closure, and neither hyperammonemia nor consciousness disorders occurred during the 5-year follow-up period after embolization."
+        "question": "Why can hepatic encephalopathy become more prevalent with age in patients with IPSVS?",
+        "answer": "The incidence of hepatic encephalopathy increases with age because of a decreasing tolerance to ammonia in the aged brain, and the shunt ratio is also related to the development of hepatic encephalopathy."
     },
     {
-        "question": "Why is patient follow-up after embolization necessary according to the article?",
-        "answer": "Patient follow-up with upper gastrointestinal endoscopy and contrast-enhanced CT scan after embolization is necessary for detecting portal hypertension-related complications such as ascites and bleeding of esophagogastric varices."
+        "question": "What are the four types of IPSVS based on anatomical variations in the shunt vessels of the liver?",
+        "answer": "Type 1 is a single large vessel connecting the portal vein or its right branch to the inferior vena cava; Type 2 is a localized peripheral shunt between the peripheral branches of the portal vein and hepatic veins in one hepatic segment; Type 3 is peripheral portal and hepatic veins connecting through an aneurysm; Type 4 is multiple communications between peripheral portal and hepatic veins diffusely distributed in both lobes."
     },
     {
-        "question": "What were the initial laboratory tests results that indicated the 48-year-old woman had a non-ST elevation myocardial infarction?",
-        "answer": "Elevated serum cardiac enzymes, specifically creatine kinase-MB at 14.8 ng/ml and troponin I at 3.44 ng/ml."
+        "question": "What condition did the 48-year-old woman suffer from that brought her to the emergency department?",
+        "answer": "Non-ST elevation myocardial infarction."
     },
     {
-        "question": "Despite having no traditional risk factors for coronary artery disease, what condition was eventually diagnosed in the 48-year-old woman?",
-        "answer": "Antiphospholipid syndrome (APS), which was postoperatively diagnosed due to intraoperative findings of diffuse coronary artery thrombosis and positive lupus anticoagulant activity."
+        "question": "What kind of treatment did the 48-year-old woman receive for her chest pain at the emergency department?",
+        "answer": "Medical treatment including aspirin and the continuous infusion of heparin and nitroglycerin."
     },
     {
-        "question": "What surgical procedure did the 48-year-old woman undergo due to her intractable chest pain and coronary artery lesions?",
-        "answer": "Off-pump coronary artery bypass (OPCAB) using a skeletonized right internal thoracic artery (ITA) graft."
+        "question": "Which arteries were involved in the coronary artery lesions of the 48-year-old woman according to the coronary angiogram?",
+        "answer": "The left anterior descending (LAD), diagonal, and ramus intermedius coronary arteries."
     },
     {
-        "question": "What was the outcome of the 1-year postoperative angiogram for the 48-year-old woman?",
-        "answer": "The angiogram demonstrated completely resolved left anterior descending (LAD) lesions, a patent graft to the ramus intermedius and diagonal coronary arteries, and a competitive flow pattern in the graft to the LAD coronary artery."
+        "question": "What surgical procedure was performed on the 48-year-old woman to address her coronary artery issues?",
+        "answer": "Off-pump coronary artery bypass (OPCAB) using a skeletonized right ITA graft and a segment of the reversed saphenous vein."
     },
     {
-        "question": "What is Antiphospholipid syndrome (APS) and how is it diagnosed?",
-        "answer": "APS is a clinical syndrome associated with antibodies against phospholipids, manifesting as systemic thrombotic disorders. It is diagnosed based on at least one clinical feature\u2014vascular thrombosis and/or pregnancy morbidity\u2014and one of the laboratory criteria, which are lupus anticoagulant and/or anticardiolipin antibody."
+        "question": "What was the underlying condition that was diagnosed in the 36-year-old woman, and what were the manifestations of this condition?",
+        "answer": "The underlying condition was systemic lupus erythematosus (SLE), with manifestations including recurrent abortion, an episode of acute pulmonary thromboembolism, and a positive treadmill test."
     },
     {
-        "question": "What has modern management of heart failure in children come to consider beyond just normalizing cardiac output and improving symptoms?",
-        "answer": "Modern management of heart failure in children also considers neuroendocrine stimulation, myocyte remodeling, cellular energetics, and connective tissue/myocyte interactions."
+        "question": "What are the primary drugs used in the management of heart failure in children?",
+        "answer": "Inotropes, vasodilators, and diuretics."
     },
     {
-        "question": "What is the primary mechanism of action of beta-blocking agents in chronic heart failure, according to the acceptable hypothesis?",
+        "question": "What is the main hypothesis regarding the mechanism of action of beta-blocking agents in chronic heart failure?",
         "answer": "The primary mechanism of action of beta-blocking agents in chronic heart failure is to prevent and reverse adrenergically-mediated intrinsic myocardial dysfunction and remodeling."
     },
     {
-        "question": "What was the specific aim of the study conducted on patients with beta-thalassemia major?",
-        "answer": "The study aimed to evaluate the safety and efficacy of carvedilol in patients with beta-thalassemia major who have a common cause of cardiomyopathy and heart failure."
+        "question": "What characteristics differentiate third-generation beta-blockers from first and second-generation beta-blockers?",
+        "answer": "Third-generation beta-blockers, like carvedilol, are either beta-1 and beta-2 blockers and have vasodilating effects due to alpha1-adrenergic blockade, antioxidant activity, and apoptosis inhibition."
     },
     {
-        "question": "How were the patients enrolled in the carvedilol study for beta-thalassemia major grouped and treated?",
-        "answer": "Patients were randomly assigned to two groups, with group 1 receiving carvedilol and group 2 receiving a placebo. Carvedilol was started at a dosage of 3.12 mg bid and could be increased every two weeks to a maximum of 25 mg bid if tolerated."
+        "question": "What was the specific aim of the study conducted on children with beta-thalassemia major?",
+        "answer": "The study aimed to evaluate the safety and efficacy of carvedilol in patients with beta-thalassemia major who have cardiomyopathy and heart failure."
     },
     {
-        "question": "What was a significant finding at the end of the 6-month follow-up regarding the ejection fraction in the study of carvedilol on patients with beta-thalassemia major?",
-        "answer": "At the end of the 6-month follow-up, patients in the carvedilol group had the same ejection fraction as the control group."
+        "question": "What were the main findings regarding the effects of carvedilol on systolic blood pressure and ejection fraction in the study?",
+        "answer": "Most patients who received carvedilol had a decrease in systolic blood pressure below 100 mmHg, and the ejection fraction decreased in the carvedilol receiving group during the first 2 months but equaled the control group at the end of 6 months."
     },
     {
-        "question": "What are bromodomains and why are they significant in the context of this article?",
-        "answer": "Bromodomains are acetyl-lysine specific epigenetic reader domains and are significant because they are an emerging target class for the design of protein interaction inhibitors that selectively modulate gene transcription."
+        "question": "What is the main focus of discovery for bromodomain inhibitors?",
+        "answer": "The main focus has been on the bromo and extra-terminal (BET) subfamily of bromodomains."
     },
     {
-        "question": "Why has the discovery of potent and selective inhibitors mainly focused on the BET subfamily of bromodomains?",
-        "answer": "The discovery of potent and selective inhibitors has mainly focused on the BET subfamily of bromodomains because the first inhibitors for this subfamily have reached clinical testing, whereas no potent and selective inhibitors are known for the large majority of other bromodomains."
+        "question": "Why is there a need for chemical probes in the study of bromodomains?",
+        "answer": "Chemical probes are needed because they offer advantages for target identification and validation over genetic techniques like RNAi experiments and dominant negative mutants."
     },
     {
-        "question": "What is the role of the protein complex BAZ2A-NORC, and why are mutations in the BAZ2A bromodomain significant?",
-        "answer": "The BAZ2A-NORC protein complex, a member of the imitation switch chromatin remodeling complexes (ISWI), regulates the expression of noncoding RNAs and establishes a repressive heterochromatic structure at centromeres and telomeres. Mutations in the BAZ2A bromodomain that abolish histone binding impair the association of NORC with chromatin and transcriptional repression, which is significant for proper gene regulation."
+        "question": "What challenge is associated with the bromodomains BAZ2A and BAZ2B in terms of drug design?",
+        "answer": "BAZ2A and BAZ2B bromodomains have low predicted druggability due to an open binding site, lacking the deep and enclosed pocket characteristic for the BET subfamily bromodomains."
     },
     {
-        "question": "What was the unexpected finding in the cocrystal structure of compound 1 bound to BAZ2B?",
-        "answer": "The unexpected finding in the cocrystal structure of compound 1 bound to BAZ2B was that the hydrophobic phenyl ring of 1 occupied the acetylated lysine (Kac) binding pocket, despite the presence of conserved water molecules and the asparagine residue, which typically act as hydrogen bond donors."
+        "question": "What was the initial potency of the compound identified as a weak inhibitor for BAZ2A and BAZ2B?",
+        "answer": "The initial compound had an IC50 of 51 \u03bcM for BAZ2A and 26 \u03bcM for BAZ2B."
     },
     {
-        "question": "What is the significance of compound 13 (BAZ2-ICR) in the context of this research?",
-        "answer": "Compound 13 (BAZ2-ICR) is significant because it represents a potent and selective chemical probe of the BAZ2 bromodomains, which satisfies the criteria for a dual BAZ2A and BAZ2B chemical probe with an excellent in vitro and in vivo profile, aiding in the investigation of the biological role of BAZ2A and B."
+        "question": "What feature of BAZ2A and BAZ2B is critical for their observed potency and selectivity according to the study?",
+        "answer": "The intramolecular \u03c0-stacking arrangement of aromatic groups is critical for the potency and selectivity of the bromodomain inhibitors for BAZ2A and BAZ2B."
     },
     {
-        "question": "What advantage do high-throughput methods provide in gene expression analysis?",
-        "answer": "High-throughput methods allow for the generation of detailed temporal expression data for a single gene or large numbers of genes."
+        "question": "What is the challenge mentioned in the article regarding the comparison of temporal expression data?",
+        "answer": "The challenge is comparing temporal expression data obtained from different growth conditions where the patterns of expression may be shifted in time."
     },
     {
-        "question": "What is a challenge in comparing temporal expression data?",
-        "answer": "A challenge is comparing data obtained from different growth conditions where the patterns of expression may be shifted in time."
+        "question": "What method do the authors propose to use for comparing expression patterns from different experiments?",
+        "answer": "The authors propose the use of wavelet analysis to compare expression patterns from experiments that have time shifts or delays."
     },
     {
-        "question": "What analytical method does the article propose for comparing temporal expression patterns?",
-        "answer": "The article proposes the use of wavelet analysis to compare temporal expression patterns from experiments with time shifts or delays."
+        "question": "How was the proposed approach demonstrated in the article?",
+        "answer": "The approach was demonstrated using detailed temporal data for a single bacterial gene obtained under 72 different growth conditions."
     },
     {
-        "question": "How was the wavelet analysis approach demonstrated in the article?",
-        "answer": "The wavelet analysis approach was demonstrated using detailed temporal data for a single bacterial gene obtained under 72 different growth conditions."
+        "question": "Can the strategy proposed in the article be applied to data sets with large numbers of genes?",
+        "answer": "Yes, this general strategy can be applied in the analysis of data sets of thousands of genes under different conditions."
     },
     {
-        "question": "Can the general strategy described be applied to larger datasets, and if so, how extensive can these datasets be?",
-        "answer": "Yes, the general strategy can be applied to the analysis of data sets of thousands of genes under different conditions."
+        "question": "What has enabled the generation of detailed temporal expression data for genes?",
+        "answer": "A variety of high-throughput methods have made it possible to generate detailed temporal expression data for a single gene or large numbers of genes."
     },
     {
-        "question": "What genetic pattern does incontinentia pigmenti (IP) follow for inheritance?",
-        "answer": "Incontinentia pigmenti is inherited by an X-linked dominant gene."
+        "question": "What inheritance pattern does incontinentia pigmenti follow?",
+        "answer": "X-linked dominant"
+    },
+    {
+        "question": "What is the gene affected in incontinentia pigmenti and where is it located?",
+        "answer": "The IP gene affected is the nuclear factor kappa B essential modulator (NEMO), located at Xq28."
     },
     {
         "question": "What are the major diagnostic criteria for incontinentia pigmenti?",
-        "answer": "The major criteria for diagnosing incontinentia pigmenti include a typical neonatal vesicular rash with eosinophilia, typical blaschkoid hyperpigmentation on the trunk that fades in adolescence, and linear, atrophic hairless lesions."
+        "answer": "The major diagnostic criteria for incontinentia pigmenti include a typical neonatal vesicular rash with eosinophilia, typical blaschkoid hyperpigmentation on the trunk fading in adolescence, and linear, atrophic hairless lesions."
     },
     {
-        "question": "At what age did the skin lesions start appearing in the 5-year-old male child described in the article?",
-        "answer": "The skin lesions started appearing at 1 week of age in the form of vesicular lesions on the lower extremities, which gradually spread onto the trunk."
+        "question": "Which systemic examinations revealed no abnormalities in the two male child cases presented?",
+        "answer": "Systemic examinations including ocular, CNS (central nervous system), and skeletal systems revealed no abnormalities."
     },
     {
-        "question": "Why is the role of dermatologists and pediatricians crucial in the context of incontinentia pigmenti?",
-        "answer": "The role of dermatologists and pediatricians is crucial in early diagnosis of incontinentia pigmenti."
+        "question": "What are some associated findings of incontinentia pigmenti besides cutaneous lesions?",
+        "answer": "Associated findings include developmental defects of eyes, teeth, skeletal system, and central nervous system."
     },
     {
-        "question": "Is there a specific test for incontinentia pigmenti and how is it diagnosed?",
-        "answer": "There is no specific test for incontinentia pigmenti; diagnosis is typically based on clinical features and can be supported with genetic testing and DNA analysis."
+        "question": "What is secondary leukemia?",
+        "answer": "Secondary leukemia refers to the appearance of a new, biologically unrelated leukemia different from the primary malignancy, following the treatment of the primary malignancy."
     },
     {
         "question": "What is the difference between secondary leukemia and de novo leukemia?",
-        "answer": "Secondary leukemia refers to the appearance of a new, biologically unrelated leukemia following the treatment of the primary malignancy, while de novo leukemia refers to leukemia in patients without prior exposure to potentially leukemogenic therapies or agents."
+        "answer": "Secondary leukemia occurs after treatment for a different primary malignancy, while de novo leukemia refers to leukemia in patients without exposure to potentially leukemogenic therapies or agents."
     },
     {
-        "question": "What is more common to lead to secondary acute myeloid leukemia (AML), treatment for hematologic disorders or solid tumors?",
-        "answer": "Treatment for hematologic disorders is more common to lead to secondary acute myeloid leukemia (AML)."
+        "question": "Why is it not surprising that a large percentage of patients who develop secondary acute myeloid leukemia (AML) were previously treated for hematological disorders?",
+        "answer": "It is not surprising because hematologic malignancies are responsive to chemotherapy, which can be leukemogenic and lead to secondary AML."
     },
     {
-        "question": "Why is secondary AML rare following allogeneic HSCT for AML?",
-        "answer": "Secondary AML is rare following allogeneic HSCT for AML primarily because the anti-leukemic effects of the allogeneic graft reduce the risk of a secondary clone developing."
+        "question": "What is the significance of the patient's new complex cytogenetic abnormalities in the case study?",
+        "answer": "The new complex cytogenetic abnormalities suggested that the origin of the second AML might be biologically unrelated to the first and indicate that the second AML is a separate occurrence, not a relapse of the first."
     },
     {
-        "question": "What were the new complex cytogenetic abnormalities identified in the patient's second AML?",
-        "answer": "The new complex cytogenetic abnormalities included abnormal chromosomes such as der(y)t(y;15), del(1)(q32), t(1;3)(p36.1;q21), inv(3)(p21q25), add(4)(p16), del(7)(q22), +8, inv(9)(p13p24), -15, add(16)(p13.3), and del(13)(q12q22)."
-    },
-    {
-        "question": "What were the significant features of the patient's case presented in the article?",
-        "answer": "The patient exhibited a longer latency period than in previous reports of secondary AML following hematologic and/or non-hematologic malignancies, rare cases of secondary AML following de novo AML, and the second AML might be biologically unrelated to the first due to its new complex cytogenetic aberrations."
+        "question": "What are the two possible syndromes of therapy-related AML (t-AML) mentioned in the article?",
+        "answer": "One syndrome has a long latency period observed after the administration of alkylating agents, with dysplastic changes and clonal abnormalities involving chromosomes 5 or 7. The other syndrome has a short latency period, with no antecedent dysplastic phase, and usually involves chromosome 11q23 or chromosome 21q22 anomalies, following the use of topoisomerase II inhibitors."
     },
     {
         "question": "What is healthy aging defined as according to the article?",
         "answer": "Healthy aging is defined as aging without disease."
     },
     {
-        "question": "What are some of the determinants of neuronal vulnerability mentioned in the article?",
-        "answer": "Determinants of neuronal vulnerability include altered protein interaction networks, mitochondria, reactive oxidative species and intracellular calcium homeostasis, autophagy, signal transduction pathways, stem cell proliferation, and stress resistance mechanisms."
+        "question": "What have recent functional analyses identified as regulators of aging and lifespan?",
+        "answer": "Recent functional analyses have identified signaling pathways acting as master regulators of aging and lifespan."
     },
     {
-        "question": "Which brain regions are most susceptible to age-related changes in prefrontal cortex and white matter?",
-        "answer": "The prefrontal cortex and white matter are most susceptible to age-related changes."
+        "question": "At what age range does a measurable decline in generalized cortical function begin to appear?",
+        "answer": "A measurable decline in generalized cortical function begins to appear by 45 to 49 years of age."
     },
     {
-        "question": "What does the variability in cognitive ability and its decline associated with brain aging suggest according to recent studies?",
-        "answer": "Studies suggest that age-related cognitive decline is more likely to be associated with alterations in synaptic connectivity than with neuronal loss and white matter changes."
+        "question": "What kind of brain regions show increased activity linked to better cognitive performance in aging?",
+        "answer": "Brain regions with greater activation, particularly in (pre)frontal areas, are linked to better cognitive performance in aging."
     },
     {
-        "question": "How does the concept of 'cognitive reserve' relate to aging and neuroplasticity?",
-        "answer": "The concept of 'cognitive reserve' relates to the ability to reinforce brain volume in certain areas and provide a greater threshold for age-dependent deficits, as well as the capacity of the brain to manage pathology or age-related changes, thereby minimizing clinical manifestation."
+        "question": "What are two major morphologic correlates of cognitive impairment or dementia mentioned in the article?",
+        "answer": "The number of neocortical neurofibrillary tangles (NFTs) and loss of synapses are two major morphologic correlates of cognitive impairment or dementia."
     },
     {
-        "question": "What were the initial symptoms experienced by the 9-year-old boy from La Gamba, R\u00edo Claro?",
-        "answer": "The initial symptoms were fever, cough, and malaise."
+        "question": "What symptoms did the 9-year-old boy from La Gamba, Costa Rica, present when he was first admitted to the hospital?",
+        "answer": "The boy presented with fever, cough, and malaise of 4 days duration."
     },
     {
-        "question": "How did the rabies virus likely transmit to the boy and the woman?",
-        "answer": "The likely transmission was through a cat bite, where the cat could have been previously infected by a bat."
+        "question": "What was the rapid progression of the boy's condition after he returned to the hospital with muscular weakness?",
+        "answer": "The boy rapidly progressed to acute flaccid paralysis and then to respiratory failure."
     },
     {
-        "question": "Which animal's variant of the rabies virus was found in both patients?",
-        "answer": "A rabies virus variant associated with vampire bats was found in both patients."
+        "question": "How was the variant of the rabies virus that infected the patients characterized, and which animal was associated with it?",
+        "answer": "The rabies virus variant was characterized at the Centers for Disease Control and Prevention and was associated with vampire bats (Desmodus rotundus)."
     },
     {
-        "question": "What measures were taken after the diagnosis of rabies in the patients?",
-        "answer": "Rabies postexposure prophylaxis with a vero cell rabies vaccine was administered to the relatives of the patients and to veterinary and healthcare personnel."
+        "question": "What did the family members of the infected boy report about their cat and dog in relation to the rabies infection?",
+        "answer": "They reported that in July 2001, their cat became very aggressive and bit them when they tried to stop a fight between the cat and their dog. The dog killed the cat, whose carcass was then discarded into a creek next to the house."
     },
     {
-        "question": "What does the GIS operation do to help in the fight against rabies?",
-        "answer": "The GIS operation defines areas of low, medium, and high-risk of disease, helping to identify risk zones for optimal control and prevention of rabies."
+        "question": "What actions were taken after the diagnosis of rabies was made in the area where the patients lived?",
+        "answer": "Rabies postexposure prophylaxis with a vero cell rabies vaccine was administered to the relatives of the patients and healthcare personnel, and a retrospective search of other possible human cases was performed."
     },
     {
-        "question": "What is the most prevalent cause of chronic liver diseases mentioned in the article?",
-        "answer": "Nonalcoholic fatty liver disease (NAFLD) is the most prevalent cause."
+        "question": "What is nonalcoholic fatty liver disease (NAFLD) and how prevalent is it among children and adults in Iran?",
+        "answer": "NAFLD is a chronic liver disease characterized by the pathological accumulation of fat, mainly triglycerides, in the liver. In Iran, it affects about 7% of children and 35% of adults."
     },
     {
-        "question": "What is the estimated percentage of adults affected by NAFLD in Iran?",
-        "answer": "It is estimated that 35% of adults in Iran are affected by NAFLD."
+        "question": "What dietary factors are suggested by some studies to increase the risk of NAFLD?",
+        "answer": "High-calorie food patterns leading to obesity, high carbohydrate diets affecting fatty acid synthesis and blood triglycerides, and increased ratio of omega 6 to omega 3 fatty acids activating inflammatory pathways are some dietary factors suggested to increase the risk of NAFLD."
     },
     {
-        "question": "According to the article, what types of nutrients have some studies suggested people with NAFLD intake less of?",
-        "answer": "Some studies suggest that patients with NAFLD have a lower level intake of vitamin D and antioxidant vitamins (E and C), as well as calcium and zinc."
+        "question": "What were the characteristics of the participants in the case-control study conducted to investigate the relationship between diet and NAFLD?",
+        "answer": "The participants were individuals between 20 and 60 years old diagnosed with NAFLD, and the control group were neighbors of the case group matched by age and sex, without any stages of hepatic steatosis."
     },
     {
-        "question": "What dietary factor did the study find to be higher in individuals with NAFLD compared to healthy individuals?",
-        "answer": "The study found that the intake of saturated fat and sugar is higher in individuals with NAFLD compared to healthy individuals."
+        "question": "According to the study, what differences in dietary intake were found between patients with NAFLD and healthy individuals?",
+        "answer": "Patients with NAFLD consumed more sugar and saturated fats, and less total dietary fiber, vitamin D, folic acid, potassium, and zinc compared to healthy individuals."
     },
     {
-        "question": "What were the criteria for inclusion in the control group of the study?",
-        "answer": "Inclusion criteria for the control group were volunteers who were the neighbors of the case group and were the same as them in age and sex, with wellbeing in the case of NAFLD approved (not suffering from any stages of hepatic steatosis)."
+        "question": "What were the physical activity comparisons between patients with NAFLD and healthy individuals according to the study?",
+        "answer": "The study found that patients with NAFLD were less active compared to healthy individuals."
     },
     {
-        "question": "What was the purpose of adding 1 g/L or 4.5 g/L of glucose to the CS-CF medium in the experiment?",
-        "answer": "The purpose was to create normal glucose and high glucose conditions for incubating human umbilical vein endothelial cells (HUVECs) for screening study purposes."
+        "question": "What was the purpose of using meep in the study?",
+        "answer": "The purpose of using methanolic extracts from edible plants (meep) in the study was to examine their potential in increasing esrage production in high glucose-induced human umbilical vein endothelial cells (HUVECs), which could have implications for the treatment and prevention of diabetes."
     },
     {
-        "question": "What method was used to determine esRAGE production in the cell culture-derived supernatants?",
-        "answer": "Colorimetric ELISA under the manufacturer's protocol was used to determine esRAGE production."
+        "question": "How was the peroxynitrite scavenging activity expressed in the study?",
+        "answer": "The peroxynitrite scavenging activity was expressed as a percentage inhibition of the control at 500 nm absorbance ([control A500 nm - experimental A500nm] / control A500 nm * 100)."
     },
     {
-        "question": "How was the peroxynitrite scavenging activity expressed in this study?",
-        "answer": "The peroxynitrite scavenging activity was expressed as percentage inhibition of the control A500 nm."
+        "question": "What is the significance of esrage in relation to diabetes?",
+        "answer": "The significance of esrage in relation to diabetes is that increased esrage production may reflect the down-regulation of RAGE, which is associated with diabetic vascular complications. The study suggests that extracts from certain plants may enhance esrage production, contributing to endothelial dysfunction improvement in diabetes."
     },
     {
-        "question": "What result indicated that certain plant samples had potent inhibitors of 8-OHdG?",
-        "answer": "The calculated 8-OHdG recovery rates for the plant samples, which were significantly lower than the control, indicated that the samples were potent inhibitors of 8-OHdG."
+        "question": "Which plant extracts showed a significant influence on esrage production in the study?",
+        "answer": "Plant extracts from white radish sprout, jew's marrow, cauliflower, eggplant, carrot peel, young sweet corn, broad bean, and japanese radish showed a significant influence on esrage production in high glucose-induced HUVECs."
     },
     {
-        "question": "What did the results suggest about the correlation between esRAGE production and total phenolic content (TPC) of the methanolic extracts?",
-        "answer": "The results suggested a positive correlation between esRAGE production and TPC, indicating that the phenolic content of the plants could be attributed to their esRAGE production."
+        "question": "What was the relationship between 8-ohdg levels and esrage production as found in the study?",
+        "answer": "The study found that the 8-ohdg levels did not correlate with esrage production (r = 0.086), indicating that they are not directly associated with each other."
     },
     {
-        "question": "Why has the use of the axillary artery as a percutaneous access site lost favor?",
-        "answer": "The use of the axillary artery as a percutaneous access site has lost favor due to the success of procedures from radial or brachial alternatives and concerns such as its proximity to the neurovascular bundle, uncertainty of its ability to accommodate larger sheaths, and difficulties in effecting hemostasis."
+        "question": "What are the common concerns for using the axillary artery (AXA) as an access site in percutaneous intervention?",
+        "answer": "The primary concerns include the AXA's proximity to the neurovascular bundle, uncertainty of its ability to reliably accommodate larger sheaths, and difficulties in effecting hemostasis due to the artery's lack of compressibility on a bony structure."
     },
     {
-        "question": "What are some of the alternative access points mentioned for percutaneous intervention, and what is their limitation?",
-        "answer": "Some of the alternative access points for percutaneous intervention are the radial and brachial arteries, and their limitation is typically being unable to accommodate anything larger than a 6 or 7 fr sheath."
+        "question": "What has been the limitation of distal access points such as the radial or brachial artery in percutaneous intervention?",
+        "answer": "They are typically unable to accommodate anything larger than a 6 or 7 French (Fr) sheath."
     },
     {
-        "question": "What was the hypothesis regarding the axillary artery size in relation to the common femoral artery?",
-        "answer": "The hypothesis was that the axillary artery would not only be of comparable size to the common femoral artery in most patients but also be less frequently calcified or diseased and able to accommodate sheaths with up to an 18 fr outer diameter in the vast majority of patients."
+        "question": "What were the findings of the study comparing the diameter sizes of the axillary artery (AXA) and the common femoral artery (CFA)?",
+        "answer": "The study found that the mean sizes of the right and left AXAs were slightly smaller than those of the CFAs, and the AXAs demonstrated significantly less calcification compared to the CFAs."
     },
     {
-        "question": "What were the results of the study comparing the sizes of the axillary artery and common femoral artery?",
-        "answer": "The study found that the mean sizes of the right and left axillary arteries were 6.38 mm and 6.52 mm, respectively, versus 8.26 mm and 8.2 mm for the right and left common femoral arteries, with a mean difference of 1.69 mm between the axillary artery and common femoral artery."
+        "question": "Why might the axillary artery be considered as an alternative access site for procedures such as Transcatheter Aortic Valve Replacement (TAVR), Endovascular Aneurysm Repair (EVAR), and Impella supported High Risk PCI?",
+        "answer": "The axillary artery may be less frequently calcified or diseased and able to accommodate sheaths with up to an 18 Fr outer diameter in the majority of patients, making it a viable option in the setting of hostile aortoiliofemoral segments."
     },
     {
-        "question": "What percentages of axillary and common femoral arteries demonstrated calcification in the study, and what does this imply about the suitability of axillary artery as an access site?",
-        "answer": "Only 1.04-2.1% of axillary arteries demonstrated calcification, versus 17.8-19.8% of common femoral arteries, indicating a significantly lower percentage of calcification in the axillary arteries, implying it may be a suitable access site for certain procedures."
+        "question": "What was the outcome of the study when using the axillary artery for Transcatheter Aortic Valve Replacement (TAVR) with a percutaneous access and closure technique?",
+        "answer": "The study by Sch\u00e4fer et al. demonstrated a 100% procedural success rate without significant access site complications, and the vascular complications that were experienced were safely handled with covered stent deployment."
     },
     {
-        "question": "What layers are responsible for producing catecholamine and mineralocorticoids in the adrenal glands?",
-        "answer": "The medullar layer is responsible for producing catecholamine while the cortical layer produces mineralocorticoids."
+        "question": "What hormones are produced by the cortical layer of the adrenal glands?",
+        "answer": "The cortical layer produces mineralocorticoids, glucocorticoids, and sex hormones."
     },
     {
-        "question": "What are the most common types of tumors found in the adrenal glands?",
-        "answer": "The most common tumors found in the adrenal glands are cortical adenomas without hormonal hyperfunction."
+        "question": "What are some conditions associated with medullar hyperfunction of the adrenal glands?",
+        "answer": "Medullar hyperfunction of the adrenal glands is associated with conditions like pheochromocytoma."
     },
     {
-        "question": "Which imaging techniques are recommended for assessing the suprarenal areas?",
-        "answer": "Ultrasound is the method of choice, particularly in neonates and children, while computed tomography and magnetic resonance imaging are preferred for assessing adrenal pathologies in adolescents and adults."
+        "question": "What imaging techniques are considered the methods of choice for assessing adrenal pathologies?",
+        "answer": "The methods of choice for assessing adrenal pathologies are computed tomography and magnetic resonance imaging."
     },
     {
-        "question": "What are some causes of Addison's disease in developed countries?",
-        "answer": "Addison's disease can be caused by tuberculosis, metastases to both adrenal glands and destruction by a neoplastic process such as lymphoma."
+        "question": "What is the significance of the echogenicity similarity between the adrenal glands and retroperitoneal fat tissue?",
+        "answer": "The similarity in echogenicity between the adrenal glands and retroperitoneal fat tissue makes it difficult to visualize the adrenal glands during an ultrasound examination."
     },
     {
-        "question": "What should be included in the description of an ultrasound examination of adrenal glands in neonates?",
-        "answer": "The description should include the size of the gland and the presence of possible focal lesions."
+        "question": "What should be included in the description of ultrasound examinations of the adrenal glands in neonates?",
+        "answer": "The description of ultrasound examinations in neonates should include the size of the adrenal gland and the presence of any focal lesions."
     },
     {
-        "question": "How many receptor-binding members are there in the FGF family, and what do they regulate?",
-        "answer": "There are 18 receptor-binding members in the FGF family, and they regulate a broad spectrum of cellular activities."
+        "question": "What are the downstream signaling pathways activated by FGF through interaction with the FGFR tyrosine kinases?",
+        "answer": "The downstream signaling pathways activated by FGF through interaction with the FGFR tyrosine kinases are the MAP and PI3 kinase pathways."
     },
     {
-        "question": "What is the function of the FRS2 and FRS2 proteins in FGF signaling?",
-        "answer": "FRS2 and FRS2 are membrane-anchored adaptor proteins that are required for the FGF to activate the MAP and PI3 kinase pathways, which are the two major pathways in the FGF signaling cascade."
+        "question": "What role does the adaptor protein FRS2 play in FGF signaling?",
+        "answer": "FRS2 acts as a membrane-anchored adaptor protein that is required for the activation of the MAP and PI3 kinase pathways, the two major pathways in the FGF signaling cascade."
     },
     {
-        "question": "What are the consequences of FRS2 null mutations in mouse embryos?",
-        "answer": "FRS2 null mouse embryos die between embryonic days 7.0 and 7.5."
+        "question": "How does the binding of FGFR1 to FRS2\u03b1 differ from its binding to FRS2\u03b2?",
+        "answer": "The binding of FGFR1 to FRS2\u03b1, but not FRS2\u03b2, is enhanced by receptor autophosphorylation."
     },
     {
-        "question": "What role does FRS2 play in the regulation of autophagy according to the study?",
-        "answer": "FRS2 is required for the FGF signaling axis to activate the mTOR pathway and to suppress the autophagy activity in MEFs."
+        "question": "What was observed in mice expressing a FRS2\u03b1 mutant that lacks the SHP2-binding sites?",
+        "answer": "Mice expressing a FRS2\u03b1 mutant that lacks the SHP2-binding sites exhibit severe developmental defects."
     },
     {
-        "question": "Which domains are shared between FRS2 and FRS2, and what are their functions?",
-        "answer": "FRS2 and FRS2 share similar structure domains, which include the N-terminal myristylation site that anchors FRS2 to the cell membrane, the phosphotyrosine-binding (PTB) domain required for binding to the FGFR, and the C-terminal sequence that contains multiple tyrosine and serine/threonine phosphorylation sites."
+        "question": "What is the new mechanism suggested by the study that FGF elicits to regulate autophagy?",
+        "answer": "The study suggests that the new mechanism by which FGF elicits its regulatory signals to regulate autophagy is through the FRS2-mediated mTOR pathway."
     },
     {
-        "question": "What is the main age group affected by tuberculosis according to the study?",
-        "answer": "The main age group affected by tuberculosis is 15 - 55 years."
+        "question": "What is the age range of patients that constituted nearly 90.76% of the study population?",
+        "answer": "15-55 years"
     },
     {
-        "question": "What are some of the reasons that tuberculosis rates are higher among poor populations?",
-        "answer": "Deprivation associated with poverty increases the risks of tuberculosis infection and development of disease, and factors like inadequate ventilation and lighting, overcrowded housing, and indoor air pollution due to biomass fuel in cooking."
+        "question": "What percentage of patients in the study had a primary school level education?",
+        "answer": "12.97%"
     },
     {
-        "question": "What methods were used to collect data for the tuberculosis study in Dhubri district?",
-        "answer": "Data was collected using a pre-tested structured questionnaire through interviews with the patients at their residences."
+        "question": "What were the significant risk factors for irregular treatment observed in the study?",
+        "answer": "Long distance from the treatment center, unpleasant drug effects, and personal inconvenience like the necessity to work for livelihood."
     },
     {
-        "question": "What factors influenced the patients' compliance with tuberculosis treatment in the study?",
-        "answer": "Factors influencing compliance included distance to the treatment center, unpleasant drug effects, personal inconvenience like needing to work for livelihood, insufficient knowledge, individual cost during treatment, and for women, interaction with health staff and social stigma."
+        "question": "What was the percentage of houses in the study that were overcrowded?",
+        "answer": "98.15%"
     },
     {
-        "question": "According to the study results, how did early treatment affect the cure rate for tuberculosis?",
-        "answer": "91.84% were declared cured among patients who came for treatment within the first 6 weeks after the onset of symptoms, whereas only 40% of those who came for treatment from 6 weeks to 6 months after the onset of symptoms were declared cured."
+        "question": "According to the study, what percentage of patients who came for treatment within the first 6 weeks after the onset of symptoms were declared cured?",
+        "answer": "91.84%"
     },
     {
-        "question": "What is the primary purpose of the intraoperative squash smear technique?",
-        "answer": "The primary purpose of the intraoperative squash smear technique is for the rapid and simple diagnosis of brain tumors during surgery."
+        "question": "What is the significance of the squash smear technique in the context of CNS tumors?",
+        "answer": "The squash smear technique is a simple and rapid tool for intraoperative diagnosis of CNS tumors."
     },
     {
-        "question": "How was the squash smear technique used in the study?",
-        "answer": "In the study, the squash smear technique involved crushing tissue obtained during operation between two glass slides, fixing the smears in alcohol, staining them, and then having them reported by a consultant pathologist."
+        "question": "How were the smears prepared and processed in the study?",
+        "answer": "The tissue obtained during surgery was crushed between two glass slides, fixed in 95% alcohol for 2 minutes, and then stained with rapid hematoxylin and eosin staining method."
     },
     {
-        "question": "What was the compatibility rate between cytological and histopathological diagnoses in the study?",
-        "answer": "The compatibility rate between cytological and histopathological diagnoses in the study was 94.0%."
+        "question": "What was the sample size and duration of the study on intraoperative squash smear technique for CNS tumors?",
+        "answer": "The study had a sample size of 150 CNS space-occupying lesions and took place over a period of 15 months, from September 2013 to November 2014."
     },
     {
-        "question": "What are some of the challenges mentioned in the article regarding intraoperative cytological diagnosis?",
-        "answer": "Some of the challenges regarding intraoperative cytological diagnosis include misrepresentation of tumor tissue, difficulty smearing certain types of tumors, and variations within a single tumor that can affect grading."
+        "question": "What was the overall diagnostic accuracy of the intraoperative squash smear technique found to be in the study?",
+        "answer": "The overall diagnostic accuracy of the squash smear technique was found to be 94.0% in the study."
     },
     {
-        "question": "Why might a pathologist request additional tissue to be submitted intraoperatively?",
-        "answer": "A pathologist might request additional tissue to be submitted intraoperatively if the tissue is not representative or the cytology findings are not consistent with radiology, as this could help reduce diagnostic discrepancies."
+        "question": "What were the two cases of misinterpretation mentioned in the study?",
+        "answer": "Two astrocytomas were misinterpreted as oligodendroglioma due to the presence of cortical tissue in the smears, and two cases of ependymoma were misinterpreted as astrocytoma due to the absence of any rosette pattern with a diffuse fibrillary background."
     },
     {
-        "question": "What is a cavernous malformation and what are its other names?",
-        "answer": "A cavernous malformation (CM), also known as cavernous angioma or cavernoma, is a vascular malformation characterized by the presence of sinusoid-like capillary vessels containing blood with poor circulation."
+        "question": "What are some of the initial clinical conditions the 19-year-old male patient was diagnosed with?",
+        "answer": "The 19-year-old male patient was clinically diagnosed with 1st grade mental retardation and epilepsy."
     },
     {
-        "question": "How did Lawton et al. define a giant cavernous malformation (GCM)?",
-        "answer": "Lawton et al. defined a giant cavernous malformation (GCM) as a CM with a diameter greater than 6 cm."
+        "question": "How was a giant cavernous malformation (GCM) defined by Lawton et al.?",
+        "answer": "A giant cavernous malformation (GCM) was defined by Lawton et al. as a CM with a diameter greater than 6 cm."
     },
     {
-        "question": "What were the key findings from the MRI and CT scans of the patient in the case study?",
-        "answer": "The MRI and CT scans revealed a well-defined cystic mass with a size of 7.2*4.6 cm filled with a 2 cm intra-cystic nodule on the left fronto-parietal lobe, showing low signal intensity in T1-weighted images and high signal intensity in T2-weighted images."
+        "question": "What was the initial radiological diagnosis of the patient's mass before surgery?",
+        "answer": "The initial radiological diagnosis of the patient's mass was either a low-grade glioma or a congenital infection such as toxoplasmosis or cytomegalovirus, or even neurocysticercosis."
     },
     {
-        "question": "What was the initial diagnosis based on imaging findings before the histological examination confirmed the mass was a CM?",
-        "answer": "The initial diagnosis based on imaging findings was a low-grade glioma, congenital infection such as toxoplasmosis or cytomegalovirus, or even neurocysticercosis."
+        "question": "What did the histological exams of the mass reveal after surgery?",
+        "answer": "The histological exams of the mass revealed it to be a cavernous malformation (CM)."
     },
     {
-        "question": "What surgical approach was taken to treat the patient's cavernous malformation in the case study, and what was the outcome?",
-        "answer": "A left frontal craniotomy followed by a transcortical approach was taken to treat the patient's cavernous malformation, with cyst aspiration and intra-cystic nodule removal, resulting in an improvement in the patient's right-sided motor weakness with no complications."
+        "question": "What were some of the factors suspected to cause cystic degeneration within cavernous malformations?",
+        "answer": "Research points to recurrent minor hemorrhage of internal vascular sinuses or neocapillaries within cavernous malformations as possible factors for cystic degeneration."
     },
     {
-        "question": "How are coarse and fine controls in metabolic regulation different according to the textbook perspective?",
-        "answer": "Coarse control refers to long-term mechanisms that are energetically expensive and lead to changes in the total cellular population of a protein, while fine control describes fast, energetically inexpensive regulatory devices that modulate the activity of pre-existing enzyme molecules."
+        "question": "What are the two classic divisions of metabolic regulation in plants?",
+        "answer": "Coarse control and fine control"
     },
     {
-        "question": "What recent advancement in technology has allowed a massive amount of data regarding steady-state RNA levels?",
-        "answer": "The recent advancement in technology that has allowed a massive amount of data regarding steady-state RNA levels is afforded by microarrays and next generation sequence analyses."
+        "question": "What is the main difference between 'coarse control' and 'fine control' in metabolic regulation?",
+        "answer": "Coarse control refers to long-term mechanisms that are energetically expensive, leading to changes in the total cellular population of a protein, while fine control describes fast and energetically inexpensive regulatory devices that modulate the activity of pre-existing enzyme molecules."
     },
     {
-        "question": "What are the three mechanisms mentioned in the article that include metabolic regulation in plants?",
-        "answer": "The three mechanisms include alteration in substrate or co-substrate concentration, variation in pH, and allosteric effectors."
+        "question": "How is metabolic regulation in plants investigated at the genetic level?",
+        "answer": "Metabolic regulation is investigated by analyzing metabolite profiles of genotypes deficient in the expression of a gene and confirming the kinetic properties of the enzyme in planta or following expression of the gene in a heterologous system."
     },
     {
-        "question": "What is the role of quantitative trait loci (QTL) analysis in plant genetic studies?",
-        "answer": "QTL analysis helps in understanding the genetic basis of quantitative traits by identifying particular genomic regions showing statistically significant associations with trait variation, despite their complex multigenic inheritance and strong interactions with the environment."
+        "question": "What is the significance of quantitative trait loci (QTL) mapping in plant studies?",
+        "answer": "QTL mapping is used to establish the genetic basis of quantitative traits, comparing phenotypic values for the trait with molecular markers in progeny to search for particular genomic regions associated with trait variation."
     },
     {
-        "question": "Why are the studies on rice particularly pertinent from an applied perspective?",
-        "answer": "The studies on rice are particularly pertinent from an applied perspective because rice is the staple food crop of almost half of the world's population, and understanding its genetic and metabolic diversity can be highly valuable for breeding programs."
+        "question": "What are the two most common types of experimental populations used for the analysis of quantitative traits in plants?",
+        "answer": "Recombinant inbred lines (RILs) and near isogenic lines (NILs)"
     },
     {
-        "question": "What are the reported biomedical applications under development for nanoscale materials?",
-        "answer": "Drug delivery systems targeted to the brain and cancer tissues, gene transfection, and intravascular nanosensor and nanorobotic devices for imaging and diagnosis."
+        "question": "What are some of the potential biomedical applications of nanoscale materials?",
+        "answer": "Potential biomedical applications include drug delivery systems targeted to the brain and cancer tissues, gene transfection, and intravascular nanosensor and nanorobotic devices for imaging and diagnosis."
     },
     {
-        "question": "What type of properties do fullerenol C60(OH)24 exhibit?",
-        "answer": "Fullerenol C60(OH)24 exhibits properties such as being potent free-radical scavengers and antioxidants, acting as glutamate receptor antagonists, antiproliferative, neuroprotective, and anticancer agents."
+        "question": "What biological activities do polyhydroxylated [C60]fullerenes, or fullerenols, exhibit?",
+        "answer": "Fullerenols exhibit a range of biological activities including acting as glutamate receptor antagonists, antiproliferative, neuroprotective, and anticancer agents."
     },
     {
-        "question": "Why may many biomedical studies involving fullerenol species in the literature need to be reconsidered?",
-        "answer": "Because it has been found that most fullerenols are not pure C60(OH)n, but rather a complex mixture of different products, thus affecting the accuracy of the studies."
+        "question": "Why is understanding the interaction of fullerenols with proteins and nucleotides important?",
+        "answer": "Understanding the interaction of fullerenols with proteins and nucleotides is important for understanding their biological effects at membrane penetration and the intracellular level."
     },
     {
-        "question": "What method was used to prepare the pure fullerenol C60(OH)24 used in the study?",
+        "question": "What was the method used to prepare the pure fullerenol C60(OH)24 in the study?",
         "answer": "The pure fullerenol C60(OH)24 was prepared by a modified method of alkaline hydrolysis of C60Br24, followed by demetallation with a cation exchange resin and exhaustive purification by dialysis."
     },
     {
-        "question": "What is the main binding mode of fullerenol C60(OH)24 to DNA according to the study?",
-        "answer": "Hydrogen bonding to the phosphate backbone to the outside of the dsDNA helix is the main binding mode of fullerenol C60(OH)24 to DNA."
+        "question": "What is the significance of the interaction between fullerenol C60(OH)24 and dsDNA for its fluorescent properties?",
+        "answer": "The interaction between fullerenol C60(OH)24 and dsDNA enhances the fluorescence of fullerenol, indicating that fullerenol binds to DNA in a nonintercalative way which can be useful for DNA quantification due to its high binding affinity and sensitivity."
     },
     {
-        "question": "What is Huntington's disease (HD) characterized by?",
-        "answer": "Huntington's disease is characterized by a triad of progressive motor dysfunction, cognitive decline, and psychiatric disturbances."
+        "question": "What is Huntington's disease and how is it inherited?",
+        "answer": "Huntington's disease is an autosomal dominant neurodegenerative disease characterized by motor dysfunction, cognitive decline, and psychiatric disturbances. It is inherited in an autosomal dominant manner."
     },
     {
-        "question": "Where is the genetic mutation causing Huntington's disease localized and what does it result in?",
-        "answer": "The genetic mutation causing Huntington's disease is localized to the short arm of chromosome 4, resulting in an expansion and instability of a cytosine-adenine-guanine (CAG) repeat in gene IT15, producing unstable huntingtin protein."
+        "question": "What genetic mutation causes Huntington\u2019s disease?",
+        "answer": "The genetic mutation causing Huntington's disease involves an expansion of CAG trinucleotide repeats in the IT15 gene on the short arm of chromosome 4."
     },
     {
-        "question": "What are the typical age of onset and duration for Huntington's disease?",
-        "answer": "The typical age of onset for Huntington's disease is in the fourth to fifth decade of life, and the condition gradually worsens over 10 to 20 years until death."
+        "question": "How do the CAG repeat numbers differ between healthy individuals and HD patients?",
+        "answer": "Healthy individuals typically have around 11-35 CAG repeats on the huntingtin gene, whereas HD patients have 36 or more repeats."
     },
     {
-        "question": "What are some of the psychiatric symptoms and their prevalence in Huntington's disease patients?",
-        "answer": "Psychiatric symptoms in Huntington's disease patients include both neurotic and psychotic disorders, with a prevalence significantly higher than in the general population, estimated to be around 66-73%. Psychotic symptoms occur in about 3-11% of patients, while a more specific schizophrenia-like psychosis occurs in 3-6% of patients."
+        "question": "What were the initial psychiatric symptoms presented by the patient in the case study?",
+        "answer": "The patient initially presented with persecutory delusions, delusion of jealousy, third-person auditory hallucinations, threats of self-harm, and a decline in occupational functioning."
     },
     {
-        "question": "What was the unique aspect of the patient's case presented in the article?",
-        "answer": "The unique aspect of the patient's case was the subsequent onset of Huntington's disease in a patient who was previously treated for schizophrenia and who experienced extrapyramidal side effects to antipsychotics."
+        "question": "What did the DNA analysis reveal about the patient's alleles in the case study?",
+        "answer": "The DNA analysis revealed that the patient had 17 and 41 CAG repeats on the alleles of the huntingtin gene, confirming the diagnosis of Huntington's disease."
     },
     {
-        "question": "What is the main diagnostic criterion related to Levodopa (LD) responsiveness in Parkinson's Disease (PD)?",
-        "answer": "The main diagnostic criterion related to Levodopa responsiveness in PD is required to exceed a 25%-30% reduction in the motor part of the Unified Parkinson's Disease Rating Scale (UPDRS)."
+        "question": "What is Levodopa (LD) and why is it considered the gold standard in Parkinson's disease (PD) treatment?",
+        "answer": "Levodopa (LD) is a medication used to treat Parkinson's disease (PD) that replaces dopamine. It is considered the gold standard in PD treatment due to its superior symptomatic efficacy in improving motor function and reducing mortality."
     },
     {
-        "question": "Why do physicians sometimes delay using Levodopa in the treatment of Parkinson's Disease?",
-        "answer": "Physicians sometimes delay using Levodopa due to concerns about the potential induction of long-term motor complications such as drug-induced dyskinesia."
+        "question": "What are some of the long-term complications associated with Levodopa therapy for PD?",
+        "answer": "Long-term complications of Levodopa therapy for PD include motor response oscillations over the day and drug-induced dyskinesia, which are erratic involuntary movements."
     },
     {
-        "question": "What are the motor complications associated with long-term treatment with LD?",
-        "answer": "The motor complications associated with long-term treatment with LD include the development of various types of motor response oscillations over the day and drug-induced dyskinesia, characterized by erratic involuntary movements."
+        "question": "How does the responsiveness to Levodopa serve as a diagnostic criterion for Parkinson's disease?",
+        "answer": "Responsiveness to Levodopa, which requires exceeding a 25-30% reduction in the motor part of the Unified Parkinson\u2019s Disease Rating Scale (UPDRS), is used as a diagnostic criterion for Parkinson's disease."
     },
     {
-        "question": "What did the CALM-PD trial compare, and what was the primary outcome measure?",
-        "answer": "The CALM-PD trial compared initial treatment with the agonist pramipexole versus Levodopa-carbidopa, with the primary outcome measure being the time to first occurrence of dopaminergic complications like wearing-off, dyskinesias, 'on-off' fluctuations, and freezing."
+        "question": "What has clinical trials shown regarding the use of dopamine agonists (DAs) compared to Levodopa monotherapy in early PD?",
+        "answer": "Clinical trials have shown that while dopamine agonists (DAs) can delay the onset of motor complications compared to Levodopa monotherapy, they are less effective for symptomatic control, often requiring Levodopa supplementation within the first few years."
     },
     {
-        "question": "What is the proposed reason why Levodopa (LD) may induce motor complications?",
-        "answer": "The proposed reason why Levodopa may induce motor complications is the discontinuous and intermittent delivery of LD to the brain, resulting in nonphysiologic pulsatile stimulation of striatal dopamine receptors due to the short half-life of immediate-release LD formulations."
+        "question": "Why do some patients and physicians develop 'dopa-phobia', and how does this affect treatment decisions?",
+        "answer": "Dopa-phobia is a phenomenon where patients and physicians develop a fear of Levodopa's potential to induce motor complications such as dyskinesia. This leads to restricted use of Levodopa and a delay in its initiation as a treatment for PD."
     },
     {
-        "question": "What condition was the 45-year-old female patient being treated for?",
-        "answer": "The patient was being treated for Complex Regional Pain Syndrome (CRPS)."
+        "question": "What techniques were used to manage the patient's CRPS symptoms?",
+        "answer": "Cervical epidural block and thoracic paravertebral block"
     },
     {
-        "question": "What symptoms did the patient suffer from in her left upper extremity?",
-        "answer": "The patient suffered from allodynia and hyperalgesia in her left upper extremity."
+        "question": "What complication did the patient experience after the thoracic paravertebral block?",
+        "answer": "The patient experienced a pneumothorax."
     },
     {
-        "question": "What type of block was performed on the patient to manage her symptoms?",
-        "answer": "A left unilateral thoracic paravertebral block at the second thoracic vertebral level was performed."
+        "question": "How was the absence of the lung sliding sign and comet-tail artifact confirmed in the patient?",
+        "answer": "It was confirmed by thoracic ultrasonography."
     },
     {
-        "question": "Why did the patient return to the clinic three hours after the procedure?",
-        "answer": "The patient returned to the clinic complaining of left chest pain and mild dyspnea."
+        "question": "What are the standard tools used to diagnose pneumothorax?",
+        "answer": "CT and CXR are the standard diagnostic tools for pneumothorax."
     },
     {
-        "question": "What ultrasound findings led to the diagnosis of pneumothorax in the patient?",
-        "answer": "The absence of the lung sliding sign and comet-tail artifact at the pleural line led to the diagnosis of pneumothorax."
+        "question": "What management method was used for the patient's pneumothorax?",
+        "answer": "The patient was managed with simple needle aspiration using an 18-gauge small cannula, oxygen inhalation, and observation."
     }
 ]
