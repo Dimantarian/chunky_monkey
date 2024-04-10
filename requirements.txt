@@ -21,3 +21,4 @@ torchvision==0.16.2
 tqdm==4.66.1
 transformers==4.36.2
 python-dotenv
+chromadb
