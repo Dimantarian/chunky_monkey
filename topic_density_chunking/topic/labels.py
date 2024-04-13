@@ -1,6 +1,6 @@
 import os
-from utils.logging import get_logger
-from utils.openai_utils import create_client, general_prompt
+from topic_utils.logging import get_logger
+from topic_utils.openai_utils import create_client, general_prompt
 from dotenv import load_dotenv, find_dotenv
 from tqdm.notebook import tqdm
 

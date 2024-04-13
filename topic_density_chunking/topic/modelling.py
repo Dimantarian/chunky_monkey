@@ -1,7 +1,7 @@
 from bertopic import BERTopic
 from bertopic.representation import KeyBERTInspired
 from numpy import ndarray
-import utils.logging as log
+import topic_utils.logging as log
 
 logger = log.get_logger(__name__)
 

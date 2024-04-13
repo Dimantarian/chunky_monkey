@@ -6,7 +6,7 @@ from nltk.tokenize import word_tokenize
 import pandas as pd
 import numpy as np  # For L2 norm calculation
 import uuid
-from utils.logging import get_logger
+from topic_utils.logging import get_logger
 from tqdm.notebook import tqdm
 
 logger = get_logger(__name__)

@@ -5,7 +5,7 @@ from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 
-from utils.logging import get_logger
+from topic_utils.logging import get_logger
 
 logging = get_logger(__name__)
 

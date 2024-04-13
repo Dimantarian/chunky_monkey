@@ -23,3 +23,7 @@ transformers==4.36.2
 python-dotenv
 chromadb
 datasets
+azure-ai-generative[evaluate]
+mlflow==2.11.3
+keyring==24.3.1
+keyrings.alt

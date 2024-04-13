@@ -1,7 +1,7 @@
 from openai import AzureOpenAI
 import os
 from dotenv import load_dotenv, find_dotenv
-from utils.logging import get_logger
+from topic_utils.logging import get_logger
 
 logger = get_logger(__name__)
 

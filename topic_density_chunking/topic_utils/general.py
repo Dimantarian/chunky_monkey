@@ -1,7 +1,7 @@
 import pandas as pd
 import random
 import re
-from utils.openai_utils import general_prompt
+from topic_utils.openai_utils import general_prompt
 
 
 def load_and_sample_data(input_datapath, sample_size, seed):

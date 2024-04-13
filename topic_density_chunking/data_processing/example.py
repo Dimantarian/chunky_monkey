@@ -1,4 +1,4 @@
-import utils.logging as log
+import topic_utils.logging as log
 from sklearn.datasets import fetch_20newsgroups
 import random
 
