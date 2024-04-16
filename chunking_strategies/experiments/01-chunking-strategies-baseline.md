@@ -20,7 +20,7 @@ This describes several possible experiments - in this document we will be focuse
 ### Hypothesis
 <!-- Creator should fill this in -->
 
-Chunking documents based on different strategies will result in significant differences in search relevance. These differences vary based on the length of the documents being chunked. With the baseline strategy we will split documents into discrete chunks of length 400. We expect to get results that are reasonable
+Chunking documents based on different strategies will result in significant differences in search relevance. These differences vary based on the length of the documents being chunked. With the baseline strategy we will split documents into discrete chunks of length 400 words. We expect to get results that are reasonable
 
 ### Impact
 <!-- Creator should fill this in -->
