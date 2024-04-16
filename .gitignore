@@ -134,4 +134,4 @@ cython_debug/
 .vscode/
 
 # Ignore ChromaDB data
-data/chromadb/
+*/chromadb/*
