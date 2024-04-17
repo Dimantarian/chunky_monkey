@@ -5,3 +5,5 @@
 ## Considered Options
 
 ## Decision Outcome
+
+#TODO - call out index design and choice of engine
