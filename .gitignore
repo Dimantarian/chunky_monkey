@@ -134,4 +134,4 @@ cython_debug/
 .vscode/
 
 # Ignore ChromaDB data
-*/chromadb/*
+/workspaces/chunky_monkey/chunking_strategies/data/chroma_db/*
