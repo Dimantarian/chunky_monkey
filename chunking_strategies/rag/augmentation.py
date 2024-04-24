@@ -1,6 +1,6 @@
 def get_context(question, index, top_k=5):
     results = index.query(query_texts=[question], n_results=top_k)["documents"]
-    return results
+    return results[0]
 
 
 def contruct_prompt(context, question):

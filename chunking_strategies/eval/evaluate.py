@@ -6,14 +6,14 @@ from langchain_openai.chat_models import AzureChatOpenAI
 from langchain_openai.embeddings import AzureOpenAIEmbeddings
 from ragas import evaluate
 
-load_dotenv(find_dotenv())
-
 from ragas.metrics import (
-    context_precision,
+    answer_similarity,
     answer_relevancy,
     faithfulness,
-    context_recall,
 )
+
+
+load_dotenv(find_dotenv())
 
 
 def ragas_evaluate(
@@ -42,8 +42,7 @@ def ragas_evaluate(
         metrics = [
             faithfulness,
             answer_relevancy,
-            context_recall,
-            context_precision,
+            answer_similarity,
         ]
 
     azure_configs = {
