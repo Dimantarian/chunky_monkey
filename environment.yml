@@ -16,3 +16,4 @@ dependencies:
   - pip
   - chromadb
   - fsspec=2023.9.2
+  - ragas
