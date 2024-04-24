@@ -85,16 +85,12 @@ For this experiment we will be using the [Scientific Papers](https://huggingface
 ### Measure of Success
 <!-- Creator should fill this in -->
 
-We will be using he OOTB evaluation metrics from Azure AI Studio. These are:
-- Coherence
-- Fluency
-- Groundedness
-- Relevance
-- Similarity
-- Retrieval Score
-- F1 Score
+We will be using he OOTB LLM assisted evaluation metrics from the Ragas package. These are:
+1. *Faithfulness*: This measures the factual consistency of the generated answer against the given context. It is calculated from answer and retrieved context. The answer is scaled to (0,1) range. Higher the better.
+2. *Answer Relevancy*: The evaluation metric, Answer Relevancy, focuses on assessing how pertinent the generated answer is to the given prompt. A lower score is assigned to answers that are incomplete or contain redundant information and higher scores indicate better relevancy.
+3. *Answer Semantic Similarity*: The concept of Answer Semantic Similarity pertains to the assessment of the semantic resemblance between the generated answer and the ground truth. This evaluation is based on the ground truth and the answer, with values falling within the range of 0 to 1. A higher score signifies a better alignment between the generated answer and the ground truth.
 
-For more information on these metrics see the [AI Studio documentation](https://learn.microsoft.com/en-us/azure/ai-studio/concepts/evaluation-metrics-built-in?tabs=warning)
+**Source**: [Ragas Documentation](https://docs.ragas.io/en/stable/concepts/metrics/index.html#ragas-metrics)
 
 ## More Information
 <!-- Optional -->
