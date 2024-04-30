@@ -21,3 +21,4 @@ ragas
 mlflow
 ipykernel
 langchain
+langchain_experimental
