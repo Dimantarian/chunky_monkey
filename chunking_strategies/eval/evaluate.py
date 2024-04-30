@@ -19,7 +19,7 @@ load_dotenv(find_dotenv())
 def ragas_evaluate(
     df: pd.DataFrame,
     metrics=None,
-    azure_model=None,
+    evaluation_model=None,
     azure_embeddings=None,
 ):
 
@@ -47,8 +47,8 @@ def ragas_evaluate(
 
     azure_configs = {
         "base_url": os.getenv("AZURE_OPENAI_ENDPOINT"),
-        "model_deployment": os.getenv("GEN_STEP_MODEL"),
-        "model_name": os.getenv("GEN_STEP_MODEL"),
+        "model_deployment": evaluation_model,
+        "model_name": evaluation_model,
         "embedding_deployment": os.getenv("AZURE_OPENAI_EMBEDDING_MODEL"),
         "embedding_name": os.getenv("AZURE_OPENAI_EMBEDDING_MODEL"),
     }
