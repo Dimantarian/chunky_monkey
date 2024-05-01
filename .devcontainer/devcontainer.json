@@ -2,6 +2,9 @@
 // README at: https://github.com/devcontainers/templates/tree/main/src/miniconda
 {
 	"name": "Miniconda (Python 3)",
+	"forwardPorts": [
+		8080
+	],
 	"build": {
 		"context": "..",
 		"dockerfile": "Dockerfile"
@@ -16,7 +19,8 @@
 				"GitHub.copilot",
 				"GitHub.copilot-chat",
 				"ms-python.black-formatter",
-				"mechatroner.rainbow-csv"
+				"mechatroner.rainbow-csv",
+				"bierner.markdown-mermaid"
 			]
 		}
 	}
