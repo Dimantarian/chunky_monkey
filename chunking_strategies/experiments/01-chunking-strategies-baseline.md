@@ -38,6 +38,8 @@ We will be using he OOTB LLM assisted evaluation metrics from the Ragas package.
 
 **Source**: [Ragas Documentation](https://docs.ragas.io/en/stable/concepts/metrics/index.html#ragas-metrics)
 
+For the baseline we are simply interested in creating a starting point to measure subsequent experiments.
+
 ## Methodology
 
 ### Initial Plan
@@ -110,10 +112,14 @@ A closer look at faithfulness
 
 {If the experiment was executed in a Jupyter Notebook, link to the notebook here.}
 
+Notebook: [Baseline](../01-Baseline%20Strategy.ipynb)
+
 ## Review
 <details><summary>Review Summary (click to expand)</summary>
 What were the key takeaways from the review process? Were there any significant issues raised during review that need to be addressed?
 </details>
+
+The high scores indicate that perhaps the Q & A generation is too simplistic for measurement the experiment. The baseline has set a high bar for future experiments.
 
 ### [Optional] Additional references
 <!-- Experimenter should fill this in -->
