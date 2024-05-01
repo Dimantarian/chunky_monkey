@@ -11,11 +11,15 @@ Like wth most data probles, there's no single optimal configuration that will wo
 We restrict the scope to chunking methodologies, but can expand to other aspects of RAG if there is enough demand for it.
 
 ## Prereqs
+
 - Azure Open AI resource
 - Deployments of:
     - an embedding model
     - an LLM (suggest using gpt-4 for Q&A generation, and 35-turbo-16k elsewhere)
 - Python 3.10 onwards (tested on 3.11)
+- Port 8080 available - MLFlow runs against port 8080 by default. If this is an issue you can follow these steps:
+    - Change the forwarded port in the devcontainer.json and (re)build
+    - Update the `!mlflow server --host 127.0.0.1 --port 8080` in each notebook to reflect your port of choice
 
 ## Setup
 
@@ -23,6 +27,7 @@ We restrict the scope to chunking methodologies, but can expand to other aspects
 - Run and follow along with [00-Chunking Strategies.ipynb](./chunking_strategies/00-Chunking%20Strategies.ipynb)
 - Run and follow along with [01-Baseline Strategy.ipynb](./chunking_strategies/01-Baseline%20Strategy.ipynb)
 - Run and follow along with [02-Recursive Chunking.ipynb](./chunking_strategies/02-Recursive%20Chunking.ipynb)
+- Run and follow along with [03-Semantic Chunking.ipynb](./chunking_strategies/03-Semantic%20Chunking.ipynb)
 - View the results in MLFlow (launched from within the notebooks)
 
 > NOTE: Given the nature of RAG, running these from scratch can take some time and can be resource intensive. Some example outputs have been provided throughout in the chunking_Strategies/data folder to allow for quick exploration. Feel free to update the parameters at the top of the experiment notebooks and / or use different models in your .env file to try running your own experiment and compare the results
