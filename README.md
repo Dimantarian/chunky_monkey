@@ -21,6 +21,11 @@ We restrict the scope to chunking methodologies, but can expand to other aspects
     - Change the forwarded port in the devcontainer.json and (re)build
     - Update the `!mlflow server --host 127.0.0.1 --port 8080` in each notebook to reflect your port of choice
 
+## Environment 
+
+- You can either use the requirements.txt and you're environment management tool of choice (conda, mamba, venv etc.)
+- Or use the devcontainer :)
+
 ## Setup
 
 - Create a .env file using the [sample file](../.env.sample)
@@ -31,3 +36,11 @@ We restrict the scope to chunking methodologies, but can expand to other aspects
 - View the results in MLFlow (launched from within the notebooks)
 
 > NOTE: Given the nature of RAG, running these from scratch can take some time and can be resource intensive. Some example outputs have been provided throughout in the chunking_Strategies/data folder to allow for quick exploration. Feel free to update the parameters at the top of the experiment notebooks and / or use different models in your .env file to try running your own experiment and compare the results
+
+## What you'll find in this repo
+
+- An approach to experimentation that can be used for any data / ML problem (see experiments)
+- An overview of 2 popular chunking strategies and a comparisson (that is only valid for the data used in this experiment!)
+- A comprehensive overview of the decisions, and influencing factors when deciding on a chunking strategy
+- Pre generated evaluation data, and experiment results
+- Python code that is not suitable for production!

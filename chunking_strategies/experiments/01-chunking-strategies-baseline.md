@@ -89,6 +89,7 @@ Whilst there was no deviation from the plan, we did notice that the chunks creat
 
 ### Results Summary
 
+<TODO>
 Surprisingly, the baseline strategy scored highly across the three key metrics:
 
 answer_relevancy: 0.9570022466614213
