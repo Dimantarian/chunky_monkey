@@ -102,53 +102,49 @@ The approach was largely unchanged from the Initial plan, with the exception of 
 
 Two out of three of the metrics saw a raw increase relative to the baseline experiment.
 
-|Baseline	|Semantic	|Baseline Std|	Semantic Std|
-|---------|--------|---------|--------|
-|Faithfulness|	0.947555|	0.964276|	0.110322|	0.160372|
-|Answer Relevancy|	0.957002|	0.898045|	0.150584|	0.232620|
-|Answer Similarity|	0.922239|	0.937491	|	0.165479|	0.057192|
+|Baseline	|Current	|Baseline Std|	Current Std|
+|--|--|--|--|
+|Faithfulness	|0.985227	|0.982654	|0.073248	0.078034|
+|Answer Relevancy	|0.923851	|0.917774	|0.113740	0.115711|
+|Answer Similarity	|0.964565	|0.964630	|0.015737	0.023400|
 
-We observed that none of the metrics followed a normal distribution, so we applied the Mann-Whitney U Test. The results were as follows:
+We observed that none of the metrics followed a normal distribution, so we applied the Wilcoxon Test. The results were as follows:
 
 ```
-*****--- Mann-Whitney U Test ---*****
+*****--- Wilcoxon Test ---*****
 Null Hypothesis: The distribution of the metric is the same for the baseline and current results
 Alternative Hypothesis: The distribution of the metric is different for the baseline and current results
 
 
 faithfulness p-value: nan
-answer_relevancy p-value: nan
-answer_similarity p-value: 0.021917571575875455
+answer_relevancy p-value: 0.279138802014705
+answer_similarity p-value: 0.11648441781800677
 
 ```
 
-We can see that the difference in answer_similarity score is again the only statistically significant difference based on our alpha of 0.2, meaning that we can be confident that this strategy results in generated answers that are semantically closer to the ground truth data.  
+We can see that answer similarity has a p-value of 0.116, below our threshold of 0.2, meaning that we can reject the null hypothesis and say with confidence, that on this metric, the uplift we see is statistically significant.
 
-The absolute drop in relevancy was interesting, but given the effect was not statistically significant we won't dive deeper for now.
 
 #### Semantic vs Recursive
 
 The results of these two strategies are very similar when reading the absolute results. 
 
-|Recursive	|Current	|Recursive Std|	Current Std|
-|------|-----|-----|------|
-|Faithfulness|	0.974960|	0.964276|	0.123614|	0.160372|
-|Answer Relevancy|	0.911149|	0.898045|	0.210866|	0.232620|
-|Answer Similarity|	0.936547|	0.937491|	0.059085|	0.057192|
+|Recursive	|Current	|Recursive Std	|Current Std|
+|--|--|--|--|
+|Faithfulness	|0.976846|	0.982654	|0.077773	|0.078034|
+|Answer Relevancy|	0.915566|	0.917774|	0.156369	|0.115711|
+|Answer Similarity|	0.964353	|0.964630	|0.015519|	0.023400|
 
-We can also see that the distributions of the metrics are very similar
-![alt text](image-1.png)
+In this case we can see that the semantic chunking approach does deliver uplift across relevancy and similarity compared with the recursive chunking. 
 
-Running the Mann-whitney U Test confirms that there are no statistically significant differences across our metrics based on our alpha of 0.05.
+Whilst we had rejected the idea of using recursive based on no statically significant uplift against the baseline, it's good to see that semantic chunking does perform better in a meaningful way.
 
-This is great as it means that there's no good reason to invest extra time, money and complexity into following the semantic chunking strategy!
 
 ## Review
-<details><summary>Review Summary (click to expand)</summary>
-What were the key takeaways from the review process? Were there any significant issues raised during review that need to be addressed?
-</details>
 
 ### [Optional] Additional references
 <!-- Experimenter should fill this in -->
 
 {If there are any other related notebooks/experiments or external references that are relevant for this experiment.}
+
+[Link to notebook](../03-Semantic%20Chunking.ipynb)

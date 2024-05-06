@@ -92,33 +92,37 @@ There was no deviation from the plan in executing this experiment.
 ### Results Summary
 <TODO>
 
-Two out of three of the metrics saw a raw increase relative to the baseline experiment.
+In the raw numbers, we observed lower performance across all metrics with the recursive strategy. This was a surprising result, as we would have expected the more cohesively chunked data to perform better.
+
+However, the baseline performance being so high indicates that perhaps the way we have generated our question and answer pairs was too trivial.
 
 |Baseline	|Recursive	|Baseline Std|	Recursive Std|
 |---------|--------|---------|--------|
-|Faithfulness|	0.947555|	0.974960|	0.110322|	0.123614|
-|Answer Relevancy|	0.957002|	0.911149|	0.150584|	0.210866|
-|Answer Similarity|	0.922239|	0.936547|	0.165479|	0.059085|
+|Faithfulness|	0.985227|	0.976846|	0.073248|	0.077773|
+|Answer Relevancy|	0.923851|	0.915566|	0.113740|	0.156369|
+|Answer Similarity|	0.964565|	0.964353|	0.015737|	0.015519|
 
-We observed that none of the metrics followed a normal distribution, so we applied the Mann-Whitney U Test. The results were as follows:
+We observed that none of the metrics followed a normal distribution, so we applied the Wilcoxon signed rank test. The results were as follows:
 
 ```
-*****--- Mann-Whitney U Test ---*****
+*****--- Wilcoxon Test ---*****
 Null Hypothesis: The distribution of the metric is the same for the baseline and current results
 Alternative Hypothesis: The distribution of the metric is different for the baseline and current results
 
 
-faithfulness p-value: nan
-answer_relevancy p-value: nan
-answer_similarity p-value: 0.013814258244785313
+faithfulness p-value: 0.25306537096601034
+answer_relevancy p-value: 0.35485878318199604
+answer_similarity p-value: 0.8571985201781543
 ```
 
-We can see that the difference in answer_similarity score is statistically significant based on our alpha of 0.2, meaning that we can be confident that this strategy results in generated answers that are semantically closer to the ground truth data.  
+None of these values are below our alpha threshold of 0.2, so we cannot reject the null hypothesis; meaning that there is no significant difference between the two strategies all else being equal.
 
 ### Results References
 <!-- Experimenter should fill this in -->
 
 {If the experiment was executed in a Jupyter Notebook, link to the notebook here.}
+
+[Link to notebook](../02-Recursive%20Chunking.ipynb)
 
 ## Review
 <details><summary>Review Summary (click to expand)</summary>

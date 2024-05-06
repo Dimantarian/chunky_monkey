@@ -92,21 +92,18 @@ Whilst there was no deviation from the plan, we did notice that the chunks creat
 <TODO>
 Surprisingly, the baseline strategy scored highly across the three key metrics:
 
-answer_relevancy: 0.9570022466614213
+answer_relevancy: 0.9852269095557689
 
-answer_similarity: 0.9222386495397985
+answer_similarity: 0.9238507617274047
 
-failthfulness: 0.947554607605243
+failthfulness: 0.9645649652044082
 
-It had the highest score for answer relevance of all three experiments, however there was a large gap when it came to similarity and faithfulness.
 
 ![alt text](image.png)
 
 The high relevancy score is interesting, as this indicates that the context retrieved was more aligned to the generated answer. 
 
 The similarity metric being the lowest is probably the most significant differentiator as this shows a deviance from the ideal ground truth answer.
-
-A closer look at faithfulness 
 
 ### Results References
 <!-- Experimenter should fill this in -->
