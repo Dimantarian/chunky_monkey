@@ -1,380 +1,46 @@
-<!--=========================README TEMPLATE INSTRUCTIONS=============================
-======================================================================================
+# Chunking Strategies
 
-- THIS README TEMPLATE LARGELY CONSISTS OF COMMENTED OUT TEXT. THIS UNRENDERED TEXT IS MEANT TO BE LEFT IN AS A GUIDE 
-  THROUGHOUT THE REPOSITORY'S LIFE WHILE END USERS ONLY SEE THE RENDERED PAGE CONTENT. 
-- Any italicized text rendered in the initial template is intended to be replaced IMMEDIATELY upon repository creation.
+This repo is a guide to on how to structure genAI experiments, with a particular focus on the thought process nd decisions to be made when selecting a chunking strategy.
 
-- This template is default but not mandatory. It was designed to compensate for typical gaps in Microsoft READMEs 
-  that slow the pace of work. You may delete it if you have a fully populated README to replace it with.
+## Who is this for
 
-- Most README sections below are commented out as they are not known early in a repository's life. Others are commented 
-  out as they do not apply to every repository. If a section will be appropriate later but not known now, consider 
-  leaving it in commented out and adding an issue as a reminder.
-- There are additional optional README sections in the external instruction link below. These include; "citation",  
-  "built with", "acknowledgments", "folder structure", etc.
-- You can easily find the places to add content that will be rendered to the end user by searching 
-within the file for "TODO".
+This repo is for software engineers who are starting out building generative AI applications, in particular Retrieval Augmented Generation systems. If you've built the "hello, world!" RAG apps already, and are wondering how to improve the system performance to win over your users. 
 
+Like wth most data probles, there's no single optimal configuration that will work for all datasets. This guide aims to outline how to experiment with your chunking strategies, and identify the levers you can pull, and how to measure performance.
 
+We restrict the scope to chunking methodologies, but can expand to other aspects of RAG if there is enough demand for it.
 
-- ADDITIONAL EXTERNAL TEMPLATE INSTRUCTIONS:
-  -  https://aka.ms/StartRight/README-Template/Instructions
+## Prereqs
 
-======================================================================================
-====================================================================================-->
+- Azure Open AI resource
+- Deployments of:
+    - an embedding model
+    - an LLM (suggest using gpt-4 for Q&A generation, and 35-turbo-16k elsewhere)
+- Python 3.10 onwards (tested on 3.11)
+- Port 8080 available - MLFlow runs against port 8080 by default. If this is an issue you can follow these steps:
+    - Change the forwarded port in the devcontainer.json and (re)build
+    - Update the `!mlflow server --host 127.0.0.1 --port 8080` in each notebook to reflect your port of choice
 
+## Environment 
 
-<!---------------------[  Description  ]------------------<recommended> section below------------------>
+- You can either use the requirements.txt and you're environment management tool of choice (conda, mamba, venv etc.)
+- Or use the devcontainer :)
 
-# rag-dynamic-chunking
+## Setup
 
-<!-- 
-INSTRUCTIONS:
-- Write description paragraph(s) that can stand alone. Remember 1st paragraph may be consumed by aggregators to improve 
-  search experience.
-- You description should allow any reader to figure out:
-    1. What it does?
-    2. Why was it was created?
-    3. Who created?
-    4. What is it's maturity?
-    5. What is the larger context?
-- Write for a reasonable person with zero context regarding your product, org, and team. The person may be evaluating if 
-this is something they can use.
+- Create a .env file using the [sample file](../.env.sample)
+- Run and follow along with [00-Chunking Strategies.ipynb](./chunking_strategies/00-Chunking%20Strategies.ipynb)
+- Run and follow along with [01-Baseline Strategy.ipynb](./chunking_strategies/01-Baseline%20Strategy.ipynb)
+- Run and follow along with [02-Recursive Chunking.ipynb](./chunking_strategies/02-Recursive%20Chunking.ipynb)
+- Run and follow along with [03-Semantic Chunking.ipynb](./chunking_strategies/03-Semantic%20Chunking.ipynb)
+- View the results in MLFlow (launched from within the notebooks)
 
-How to Evaluate & Examples: 
-  - https://aka.ms/StartRight/README-Template/Instructions#description
--->
+> NOTE: Given the nature of RAG, running these from scratch can take some time and can be resource intensive. Some example outputs have been provided throughout in the chunking_Strategies/data folder to allow for quick exploration. Feel free to update the parameters at the top of the experiment notebooks and / or use different models in your .env file to try running your own experiment and compare the results
 
-An experimental repo that looks at dynamically chunking a corpus based on topic densities.
+## What you'll find in this repo
 
-This repository is a testing ground for the concepts required for *topic density based* chunking; a data science based approach for finding an optimal chunking strategy for a given corpus, prior to embedding documents for solutions using a RAG pattern. Ultimately this repo should be integrated with the Rag Experiment Accelerator.
-
-The overall intended process is as follows:
-
-1. Identify common topics in the corpus of data
-2. Search for "Topic density" with a sliding window through each document
-3. Dynamically assign chunks based on maximum topic density
-
-The hypothesis is that by maximising topic density, relevance scores within a RAG system can be boosted.
-
------------------------------------------------------------------
-<!-----------------------[  License  ]----------------------<optional> section below--------------------->
-
-<!-- 
-## License 
---> 
-
-<!-- 
-INSTRUCTIONS:
-- Licensing is mostly irrelevant within the company for purely internal code. Use this section to prevent potential 
-  confusion around:
-  - Open source in internal code repository.
-  - Multiple licensed code in same repository. 
-  - Internal fork of public open source code.
-
-How to Evaluate & Examples:
-  - https://aka.ms/StartRight/README-Template/Instructions#license
--->
-
-<!---- [TODO]  CONTENT GOES BELOW ------->
-
-<!------====-- CONTENT GOES ABOVE ------->
-
-
-
-<!-----------------------[  Getting Started  ]--------------<recommended> section below------------------>
-## Getting Started
-
-<!-- 
-INSTRUCTIONS:
-  - Write instructions such that any new user can get the project up & running on their machine.
-  - This section has subsections described further down of "Prerequisites", "Installing", and "Deployment". 
-
-How to Evaluate & Examples:
-  - https://aka.ms/StartRight/README-Template/Instructions#getting-started
--->
-
-<!---- [TODO]  CONTENT GOES BELOW ------->
-This repo is intended to be fairly self contained once the environment has been setup.
-<!------====-- CONTENT GOES ABOVE ------->
-
-
-<!-----------------------[ Prerequisites  ]-----------------<optional> section below--------------------->
-### Prerequisites
-
-<!--------------------------------------------------------
-INSTRUCTIONS:
-- Describe what things a new user needs to install in order to install and use the repository. 
-
-How to Evaluate & Examples:
-  - https://aka.ms/StartRight/README-Template/Instructions#prerequisites
----------------------------------------------------------->
-
-<!---- [TODO]  CONTENT GOES BELOW ------->
-- Access to an An Azure OpenAI service
-- A deployed model for labelling (gpt 3.5 is more than sufficient)
-- Ideally a GPU, but not mandatory.
-
-#### OPTION 1:
-- Python 3.9 or greater (tested with 3.11)
-- A python environments manager (venv, conda, mamba etc.)
-
-#### OPTION 2:
-- Docker 
-- VScode Remote connections (devcontainers)
-  
-<!------====-- CONTENT GOES ABOVE ------->
-
-
-<!-----------------------[  Installing  ]-------------------<optional> section below------------------>
-### Installing
-
-<!--
-INSTRUCTIONS:
-- A step by step series of examples that tell you how to get a development environment and your code running. 
-- Best practice is to include examples that can be copy and pasted directly from the README into a terminal.
-
-How to Evaluate & Examples:
-  - https://aka.ms/StartRight/README-Template/Instructions#installing
-
-<!---- [TODO]  CONTENT GOES BELOW ------->
-#### OPTION 1
-1. Create a python environment using your tool of choice (mamba/conda/venv etc.) 
-2. Activate the environment
-3. Go into the `topic_density_chunking` directory and install the required packages using the requirements.txt
-```bash
-cd topic_density_chunking
-pip install -r requirements.txt
-```
-
-#### OPTION 2
-1. Open the repo in VSCode
-2. Reopen in container
-
-### Getting started
-1. Create a .env file using `.env-sample` as a template and populate with your azure openai details.
-
-```bash
-#### OpenAI
-AZURE_OPENAI_API_KEY=<your-key-here>
-OPENAI_API_TYPE=azure
-
-# This is your deployment name for labelling topics. 
-# Typically a deployment running gpt 3.5 turbo will suffice
-LABELLING_MODEL=<name-of-your-gpt35turbo-deployment>
-
-##### Azure OpenAI
-# Required when OPENAI_API_TYPE is set to 'azure'
-AZURE_OPENAI_ENDPOINT=https://oai-<your-aoai-resource>.openai.azure.com/
-OPENAI_API_VERSION=2023-09-01-preview
-
-```
-2. Walk through [chunky_monkey-vector-based.ipynb](./topic_density_chunking/chunky_monkey-vector-based.ipynb) step by step
-<!------====-- CONTENT GOES ABOVE ------->
-
-
-<!-----------------------[  Tests  ]------------------------<optional> section below--------------------->
-<!-- 
-## Tests
- -->
-
-<!--
-INSTRUCTIONS:
-- Explain how to run the tests for this project. You may want to link here from Deployment (CI/CD) or Contributing sections.
-
-How to Evaluate & Examples:
-  - https://aka.ms/StartRight/README-Template/Instructions#tests
--->
-
-<!---- [TODO]  CONTENT GOES BELOW ------->
-<!--
-
-*Explain what these tests test and why* 
-
-```
-Give an example
-``` 
-
--->
-<!------====-- CONTENT GOES ABOVE ------->
-
-
-<!-----------------------[  Deployment (CI/CD)  ]-----------<optional> section below--------------------->
-<!---### Deployment (CI/CD)--->
-
-<!-- 
-INSTRUCTIONS:
-- Describe how to deploy if applicable. Deployment includes website deployment, packages, or artifacts.
-- Avoid potential new contributor frustrations by making it easy to know about all compliance and continuous integration 
-    that will be run before pull request approval.
-- NOTE: Setting up an Azure DevOps pipeline gets you all 1ES compliance and build tooling such as component governance. 
-  - More info: https://aka.ms/StartRight/README-Template/integrate-ado
-
-How to Evaluate & Examples:
-  - https://aka.ms/StartRight/README-Template/Instructions#deployment-and-continuous-integration
--->
-
-<!---- [TODO]  CONTENT GOES BELOW ------->
-<!----_At this time, the repository does not use continuous integration or produce a website, artifact, or anything deployed._--->
-<!------====-- CONTENT GOES ABOVE ------->
-
-
-<!-----------------------[  Versioning and Changelog  ]-----<optional> section below--------------------->
-
-<!-- ### Versioning and Changelog -->
-
-<!-- 
-INSTRUCTIONS:
-- If there is any information on a changelog, history, versioning style, roadmap or any related content tied to the 
-  history and/or future of your project, this is a section for it.
-
-How to Evaluate & Examples:
-  - https://aka.ms/StartRight/README-Template/Instructions#versioning-and-changelog
--->
-
-<!---- [TODO]  CONTENT GOES BELOW ------->
-<!-- We use [SemVer](https://aka.ms/StartRight/README-Template/semver) for versioning. -->
-<!------====-- CONTENT GOES ABOVE ------->
-
-
------------------------------------------------
-
-<!-----------------------[  Access  ]-----------------------<recommended> section below------------------>
-<!---## Access--->
-
-<!-- 
-INSTRUCTIONS:
-- Please use this section to reduce the all-too-common friction & pain of getting read access and role-based permissions 
-  to repos inside Microsoft. Please cover (a) Gaining a role with read, write, other permissions. (b) sharing a link to 
-  this repository such that people who are not members of the organization can access it.
-- If the repository is set to internalVisibility, you may also want to refer to the "Sharing a Link to this Repository" sub-section 
-of the [README-Template instructions](https://aka.ms/StartRight/README-Template/Instructions#sharing-a-link-to-this-repository) so new GitHub EMU users know to get 1ES-Enterprise-Visibility MyAccess group access and therefore will have read rights to any repo set to internalVisibility.
-
-How to Evaluate & Examples:
-  - https://aka.ms/StartRight/README-Template/Instructions#how-to-share-an-accessible-link-to-this-repository
--->
-
-
-<!---- [TODO]  CONTENT GOES BELOW ------->
-
-<!------====-- CONTENT GOES ABOVE ------->
-
-
-<!-----------------------[  Contributing  ]-----------------<recommended> section below------------------>
-## Contributing
-
-<!--
-INSTRUCTIONS: 
-- Establish expectations and processes for existing & new developers to contribute to the repository.
-  - Describe whether first step should be email, teams message, issue, or direct to pull request.
-  - Express whether fork or branch preferred.
-- CONTRIBUTING content Location:
-  - You can tell users how to contribute in the README directly or link to a separate CONTRIBUTING.md file.
-  - The README sections "Contacts" and "Reuse Expectations" can be seen as subsections to CONTRIBUTING.
-  
-How to Evaluate & Examples:
-  - https://aka.ms/StartRight/README-Template/Instructions#contributing
--->
-
-<!---- [TODO]  CONTENT GOES BELOW ------->
-_This repository prefers outside contributors start forks rather than branches. For pull requests more complicated 
-than typos, it is often best to submit an issue first._
-
-If you are a new potential collaborator who finds reaching out or contributing to another project awkward, you may find 
-it useful to read these [tips & tricks](https://aka.ms/StartRight/README-Template/innerSource/2021_02_TipsAndTricksForCollaboration) 
-on InnerSource Communication.
-<!------====-- CONTENT GOES ABOVE ------->
-
-
-<!-----------------------[  Contacts  ]---------------------<recommended> section below------------------>
-<!-- 
-#### Contacts  
--->
-<!--
-INSTRUCTIONS: 
-- To lower friction for new users and contributors, provide a preferred contact(s) and method (email, TEAMS, issue, etc.)
-
-How to Evaluate & Examples:
-  - https://aka.ms/StartRight/README-Template/Instructions#contacts
--->
-
-<!---- [TODO]  CONTENT GOES BELOW ------->
-
-<!------====-- CONTENT GOES ABOVE ------->
-
-
-<!-----------------------[  Support & Reuse Expectations  ]-----<recommended> section below-------------->
- 
-### Support & Reuse Expectations
-
- 
-<!-- 
-INSTRUCTIONS:
-- To avoid misalignments use this section to set expectations in regards to current and future state of:
-  - The level of support the owning team provides new users/contributors and 
-  - The owning team's expectations in terms of incoming InnerSource requests and contributions.
-
-How to Evaluate & Examples:
-  - https://aka.ms/StartRight/README-Template/Instructions#support-and-reuse-expectations
--->
-
-<!---- [TODO]  CONTENT GOES BELOW ------->
-
-_The creators of this repository **DO NOT EXPECT REUSE**._
-
-If you do use it, please let us know via an email or 
-leave a note in an issue, so we can best understand the value of this repository.
-<!------====-- CONTENT GOES ABOVE ------->
-
-
-<!-----------------------[  Limitations  ]----------------------<optional> section below----------------->
-
-<!-- 
-### Limitations 
---> 
-
-<!-- 
-INSTRUCTIONS:
-- Use this section to make readers aware of any complications or limitations that they need to be made aware of.
-  - State:
-    - Export restrictions
-    - If telemetry is collected
-    - Dependencies with non-typical license requirements or limitations that need to not be missed. 
-    - trademark limitations
- 
-How to Evaluate & Examples:
-  - https://aka.ms/StartRight/README-Template/Instructions#limitations
--->
-
-<!---- [TODO]  CONTENT GOES BELOW ------->
-
-<!------====-- CONTENT GOES ABOVE ------->
-
---------------------------------------------
-
-
-<!-----------------------[  Links to Platform Policies  ]-------<recommended> section below-------------->
-## How to Accomplish Common User Actions
-<!-- 
-INSTRUCTIONS: 
-- This section links to information useful to any user of this repository new to internal GitHub policies & workflows.
--->
-
- If you have trouble doing something related to this repository, please keep in mind that the following actions require 
- using [GitHub inside Microsoft (GiM) tooling](https://aka.ms/gim/docs) and not the normal GitHub visible user interface!
-- [Switching between EMU GitHub and normal GitHub without logging out and back in constantly](https://aka.ms/StartRight/README-Template/maintainingMultipleAccount)
-- [Creating a repository](https://aka.ms/StartRight)
-- [Changing repository visibility](https://aka.ms/StartRight/README-Template/policies/jit) 
-- [Gaining repository permissions, access, and roles](https://aka.ms/StartRight/README-TEmplates/gim/policies/access)
-- [Enabling easy access to your low sensitivity and widely applicable repository by setting it to Internal Visibility and having any FTE who wants to see it join the 1ES Enterprise Visibility MyAccess Group](https://aka.ms/StartRight/README-Template/gim/innersource-access)
-- [Migrating repositories](https://aka.ms/StartRight/README-Template/troubleshoot/migration)
-- [Setting branch protection](https://aka.ms/StartRight/README-Template/gim/policies/branch-protection)
-- [Setting up GitHubActions](https://aka.ms/StartRight/README-Template/policies/actions)
-- [and other actions](https://aka.ms/StartRight/README-Template/gim/policies)
-
-This README started as a template provided as part of the 
-[StartRight](https://aka.ms/gim/docs/startright) tool that is used to create new repositories safely. Feedback on the
-[README template](https://aka.ms/StartRight/README-Template) used in this repository is requested as an issue. 
-
-<!-- version: 2023-04-07 [Do not delete this line, it is used for analytics that drive template improvements] -->
+- An approach to experimentation that can be used for any data / ML problem (see experiments)
+- An overview of 2 popular chunking strategies and a comparisson (that is only valid for the data used in this experiment!)
+- A comprehensive overview of the decisions, and influencing factors when deciding on a chunking strategy
+- Pre generated evaluation data, and experiment results
+- Python code that is not suitable for production!
