@@ -1,12 +1,12 @@
 # Chunking Strategies
 
-This repo is a guide to on how to structure genAI experiments, with a particular focus on the thought process nd decisions to be made when selecting a chunking strategy.
+This repo is a guide to on how to structure genAI experiments, with a particular focus on the thought process and decisions to be made when selecting a chunking strategy.
 
 ## Who is this for
 
 This repo is for software engineers who are starting out building generative AI applications, in particular Retrieval Augmented Generation systems. If you've built the "hello, world!" RAG apps already, and are wondering how to improve the system performance to win over your users. 
 
-Like wth most data probles, there's no single optimal configuration that will work for all datasets. This guide aims to outline how to experiment with your chunking strategies, and identify the levers you can pull, and how to measure performance.
+Like with most data probles, there's no single optimal configuration that will work for all datasets. This guide aims to outline how to experiment with your chunking strategies, and identify the levers you can pull, and how to measure performance.
 
 We restrict the scope to chunking methodologies, but can expand to other aspects of RAG if there is enough demand for it.
 
